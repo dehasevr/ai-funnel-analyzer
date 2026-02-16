@@ -16,3 +16,21 @@ plt.plot(df["step"], df["users"])
 plt.title("Users in Funnel")
 plt.xticks(rotation=45)
 plt.show()
+
+weakest = df.loc[df["conversion"].idxmin()]
+
+print("\n=== Weakest Step ===")
+print(weakest["step"], weakest["conversion"])
+
+hypotheses = [
+    "Improve onboarding UX",
+    "Add tooltip explaining value",
+    "Send reminder email",
+    "Reduce required fields in signup",
+    "Add demo video"
+]
+
+print("\n=== Hypotheses to Test ===")
+for h in hypotheses:
+    print("-", h)
+
