@@ -13,8 +13,3 @@ It helps product managers generate hypotheses for A/B testing.
 - Python
 - Pandas
 - Matplotlib
-
-## Next Steps
-- Add AI-generated recommendations
-- Build a simple dashboard
-- Use real product data

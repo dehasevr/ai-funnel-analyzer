@@ -1,0 +1,3841 @@
+Country,"	Date","	Conversion",Search,"	Average Time (s)","	Median Time (s)",Add,"	Average Time (s)","	Median Time (s)",Export,"	Is complete"
+"	India","	Total",0.04120603,995,2397,91,460,12842,2274,41,
+"	India","	Jan 19",0,29,5786,67,14,0,0,0,True
+"	India","	Jan 20",0.020408163,49,375,62,19,73753,73753,1,True
+"	India","	Jan 21",0.090909091,44,3771,96,24,24749,10692,4,True
+"	India","	Jan 22",0.104166667,48,1032,130,26,3668,2001,5,True
+"	India","	Jan 23",0.023809524,42,102,52,16,67,67,1,True
+"	India","	Jan 24",0.1,20,1192,79,11,1450,1450,2,True
+"	India","	Jan 25",0,14,208,58,9,0,0,0,True
+"	India","	Jan 26",0.041666667,24,89,40,10,2274,2274,1,True
+"	India","	Jan 27",0.023255814,43,218,62,21,173,173,1,True
+"	India","	Jan 28",0.071428571,42,10168,73,23,7770,7431,3,True
+"	India","	Jan 29",0.0625,48,1173,111,27,6318,7431,3,True
+"	India","	Jan 30",0.115384615,52,491,70,27,7033,3697,6,True
+"	India","	Jan 31",0.142857143,14,217,146,8,17640,17640,2,True
+"	India","	Feb 01",0,22,265,93,10,0,0,0,True
+"	India","	Feb 02",0.078125,64,2779,154,22,17460,768,5,True
+"	India","	Feb 03",0.075471698,53,3637,157,25,8004,7874,4,True
+"	India","	Feb 04",0.076923077,52,4392,159,23,20300,1250,4,True
+"	India","	Feb 05",0.06,50,3204,187,27,260,236,3,True
+"	India","	Feb 06",0.078431373,51,468,67,27,1176,422,4,True
+"	India","	Feb 07",0.111111111,27,233,73,16,25108,3192,3,True
+"	India","	Feb 08",0.071428571,14,7366,87,7,37091,37091,1,True
+"	India","	Feb 09",0.114754098,61,983,92,29,5787,393,7,True
+"	India","	Feb 10",0.1,50,1698,142,26,1012,1020,5,True
+"	India","	Feb 11",0.16,50,3604,125,27,803,915,8,True
+"	India","	Feb 12",0.081967213,61,2834,87,32,7274,1044,5,True
+"	India","	Feb 13",0.115384615,52,508,134,23,2964,961,6,True
+"	India","	Feb 14",0.058823529,34,331,53,18,1901,1901,2,True
+"	India","	Feb 15",0.095238095,21,1760,104,11,6373,6373,2,True
+"	India","	Feb 16",0.104166667,48,7491,55,25,7307,1886,5,False
+"	India","	Feb 17",0.083333333,72,2405,147,31,13267,4431,6,False
+"	India","	Feb 18",0.049180328,61,716,75,24,620,314,3,False
+"	Brazil","	Total",0.12005457,733,3413,118,333,11365,1252,88,
+"	Brazil","	Jan 19",0.157894737,19,267,169,10,8125,8223,3,True
+"	Brazil","	Jan 20",0.078947368,38,277,58,20,3660,455,3,True
+"	Brazil","	Jan 21",0.090909091,33,2125,235,13,433,169,3,True
+"	Brazil","	Jan 22",0.063829787,47,3836,110,25,31135,10328,3,True
+"	Brazil","	Jan 23",0.086956522,46,611,120,23,8388,7191,4,True
+"	Brazil","	Jan 24",0.125,8,147,89,4,2554,2554,1,True
+"	Brazil","	Jan 25",0.125,8,105,105,1,6436,6436,1,True
+"	Brazil","	Jan 26",0.105263158,38,4308,90,14,14866,1562,4,True
+"	Brazil","	Jan 27",0.162162162,37,250,46,21,24889,1714,6,True
+"	Brazil","	Jan 28",0.166666667,54,2528,128,27,21769,5860,9,True
+"	Brazil","	Jan 29",0.142857143,42,8574,244,24,4560,1511,6,True
+"	Brazil","	Jan 30",0.085106383,47,1714,149,22,6460,938,4,True
+"	Brazil","	Jan 31",0.25,8,338,229,4,44219,44219,2,True
+"	Brazil","	Feb 01",0.142857143,7,88,41,3,5608,5608,1,True
+"	Brazil","	Feb 02",0.162790698,43,81,50,20,32259,20081,7,True
+"	Brazil","	Feb 03",0.175438596,57,3614,170,28,18699,2791,10,True
+"	Brazil","	Feb 04",0.109375,64,2395,85,30,6223,3548,7,True
+"	Brazil","	Feb 05",0.188679245,53,4333,172,26,2850,1139,10,True
+"	Brazil","	Feb 06",0.288888889,45,202,107,22,3467,1196,13,True
+"	Brazil","	Feb 07",0,8,86,106,3,0,0,0,True
+"	Brazil","	Feb 08",0.111111111,9,740,205,3,273,273,1,True
+"	Brazil","	Feb 09",0.101694915,59,3043,103,24,8054,3518,6,True
+"	Brazil","	Feb 10",0.150943396,53,8248,273,27,11045,1976,8,True
+"	Brazil","	Feb 11",0.131147541,61,8967,107,33,12565,1850,8,True
+"	Brazil","	Feb 12",0.203389831,59,6192,185,33,937,396,12,True
+"	Brazil","	Feb 13",0.244897959,49,2337,117,28,573,583,12,True
+"	Brazil","	Feb 14",0,10,224,100,4,0,0,0,True
+"	Brazil","	Feb 15",0,10,16192,686,3,0,0,0,True
+"	Brazil","	Feb 16",0.071428571,14,146,146,2,1942,1942,1,False
+"	Brazil","	Feb 17",0.04,25,6411,495,8,1311,1311,1,False
+"	Brazil","	Feb 18",0.064516129,31,1158,182,16,1634,1634,2,False
+"	China","	Total",0.039246468,637,1800,104,268,19538,1774,25,
+"	China","	Jan 19",0.051282051,39,870,138,16,1231,1231,2,True
+"	China","	Jan 20",0,43,128,44,23,0,0,0,True
+"	China","	Jan 21",0.035087719,57,1656,60,28,29980,29980,2,True
+"	China","	Jan 22",0,41,1659,110,13,0,0,0,True
+"	China","	Jan 23",0.020408163,49,401,65,19,1675,1675,1,True
+"	China","	Jan 24",0,14,6153,7381,3,0,0,0,True
+"	China","	Jan 25",0.333333333,3,361,361,1,1437,1437,1,True
+"	China","	Jan 26",0.022222222,45,1006,85,18,8524,8524,1,True
+"	China","	Jan 27",0.06,50,1508,77,19,29044,10417,3,True
+"	China","	Jan 28",0.0625,48,579,106,24,22263,920,3,True
+"	China","	Jan 29",0.063829787,47,1684,171,22,28369,17132,3,True
+"	China","	Jan 30",0.047619048,42,1017,64,21,4698,4698,2,True
+"	China","	Jan 31",0.111111111,9,6647,330,5,304,304,1,True
+"	China","	Feb 01",0.166666667,6,829,375,4,304,304,1,True
+"	China","	Feb 02",0,50,621,84,27,0,0,0,True
+"	China","	Feb 03",0.052631579,38,5099,66,11,40998,40998,2,True
+"	China","	Feb 04",0.086956522,46,6335,545,22,25326,8875,4,True
+"	China","	Feb 05",0.047619048,42,1143,142,13,3125,3125,2,True
+"	China","	Feb 06",0.074074074,27,1709,120,12,2043,2043,2,True
+"	China","	Feb 07",0,10,435,415,4,0,0,0,True
+"	China","	Feb 08",0,14,3268,124,4,0,0,0,True
+"	China","	Feb 09",0.09375,32,1636,120,13,24943,2543,3,True
+"	China","	Feb 10",0.2,25,9304,223,10,35364,19636,5,True
+"	China","	Feb 11",0.034482759,29,10172,120,17,6310,6310,1,True
+"	China","	Feb 12",0,26,163,58,13,0,0,0,True
+"	China","	Feb 13",0.083333333,12,366,107,6,1774,1774,1,True
+"	China","	Feb 14",0,6,32,32,2,0,0,0,True
+"	China","	Feb 15",0.142857143,7,1431,1590,5,4329,4329,1,True
+"	China","	Feb 16",0,5,190,190,1,0,0,0,False
+"	China","	Feb 17",0.166666667,6,131,31,4,82700,82700,1,False
+"	China","	Feb 18",0.25,8,1371,472,3,979,979,2,False
+"	United States","	Total",0.103040541,592,1472,99,279,9690,1810,61,
+"	United States","	Jan 19",0.125,16,914,43,5,36484,36484,2,True
+"	United States","	Jan 20",0.125,16,253,210,7,597,597,2,True
+"	United States","	Jan 21",0.083333333,24,6431,49,14,5671,5671,2,True
+"	United States","	Jan 22",0.125,24,283,155,14,15851,778,3,True
+"	United States","	Jan 23",0.032258065,31,105,58,12,3070,3070,1,True
+"	United States","	Jan 24",0.142857143,14,191,120,7,1743,1743,2,True
+"	United States","	Jan 25",0.230769231,13,159,110,6,3820,943,3,True
+"	United States","	Jan 26",0.058823529,17,168,117,5,4498,4498,1,True
+"	United States","	Jan 27",0.2,35,3687,185,19,7570,705,7,True
+"	United States","	Jan 28",0.115384615,26,457,131,10,945,544,3,True
+"	United States","	Jan 29",0.166666667,30,2147,261,15,1433,878,5,True
+"	United States","	Jan 30",0.068965517,29,96,86,14,3783,3783,2,True
+"	United States","	Jan 31",0,16,112,112,1,0,0,0,True
+"	United States","	Feb 01",0.117647059,17,432,67,11,936,936,2,True
+"	United States","	Feb 02",0.034482759,29,6307,52,14,1404,1404,1,True
+"	United States","	Feb 03",0.057142857,35,5095,60,19,25534,25534,2,True
+"	United States","	Feb 04",0.129032258,31,4427,146,18,25402,7567,4,True
+"	United States","	Feb 05",0.131578947,38,4530,163,20,1965,1536,5,True
+"	United States","	Feb 06",0.0625,32,2685,238,10,3788,3788,2,True
+"	United States","	Feb 07",0.058823529,17,1740,136,5,3043,3043,1,True
+"	United States","	Feb 08",0.25,20,1403,107,11,1439,1537,5,True
+"	United States","	Feb 09",0.09375,32,482,169,18,774,347,3,True
+"	United States","	Feb 10",0.052631579,38,4849,86,17,40654,40654,2,True
+"	United States","	Feb 11",0.128205128,39,4325,149,19,19669,4041,5,True
+"	United States","	Feb 12",0.1875,32,1205,103,19,15645,3329,6,True
+"	United States","	Feb 13",0.111111111,18,285,47,8,458,458,2,True
+"	United States","	Feb 14",0.142857143,14,518,62,8,13590,13590,2,True
+"	United States","	Feb 15",0.2,10,1593,52,5,24377,24377,2,True
+"	United States","	Feb 16",0.128205128,39,478,84,21,2611,1816,5,False
+"	United States","	Feb 17",0.162162162,37,8938,91,22,6149,813,6,False
+"	United States","	Feb 18",0.05,20,1542,134,9,269,269,1,False
+"	Pakistan","	Total",0.01965602,407,1224,80,218,15431,5102,8,
+"	Pakistan","	Jan 19",0,15,230,81,10,0,0,0,True
+"	Pakistan","	Jan 20",0,21,716,99,13,0,0,0,True
+"	Pakistan","	Jan 21",0,16,67,61,7,0,0,0,True
+"	Pakistan","	Jan 22",0,31,72,43,21,0,0,0,True
+"	Pakistan","	Jan 23",0,28,213,58,16,0,0,0,True
+"	Pakistan","	Jan 24",0,11,279,119,6,0,0,0,True
+"	Pakistan","	Jan 25",0,12,152,96,7,0,0,0,True
+"	Pakistan","	Jan 26",0,25,821,20,22,0,0,0,True
+"	Pakistan","	Jan 27",0.034482759,29,98,43,10,1841,1841,1,True
+"	Pakistan","	Jan 28",0.066666667,15,2430,136,10,1032,1032,1,True
+"	Pakistan","	Jan 29",0,35,2462,41,26,0,0,0,True
+"	Pakistan","	Jan 30",0.05,20,183,102,7,84589,84589,1,True
+"	Pakistan","	Jan 31",0.285714286,7,93,57,3,2568,2568,2,True
+"	Pakistan","	Feb 01",0.142857143,7,262,175,4,25089,25089,1,True
+"	Pakistan","	Feb 02",0.071428571,14,134,101,7,106,106,1,True
+"	Pakistan","	Feb 03",0,16,172,66,6,0,0,0,True
+"	Pakistan","	Feb 04",0,15,82,57,7,0,0,0,True
+"	Pakistan","	Feb 05",0,12,173,48,4,0,0,0,True
+"	Pakistan","	Feb 06",0.05,20,150,48,11,405,405,1,True
+"	Pakistan","	Feb 07",0,9,140,140,2,0,0,0,True
+"	Pakistan","	Feb 08",0.166666667,6,3204,879,3,8041,8041,1,True
+"	Pakistan","	Feb 09",0.125,16,15258,566,6,8873,8873,2,True
+"	Pakistan","	Feb 10",0,18,466,66,6,0,0,0,True
+"	Pakistan","	Feb 11",0,15,76,76,8,0,0,0,True
+"	Pakistan","	Feb 12",0,15,211,224,9,0,0,0,True
+"	Pakistan","	Feb 13",0.058823529,17,238,130,8,6053,6053,1,True
+"	Pakistan","	Feb 14",0,13,1563,112,10,0,0,0,True
+"	Pakistan","	Feb 15",0,9,183,151,3,0,0,0,True
+"	Pakistan","	Feb 16",0.055555556,18,150,42,8,5460,5460,1,False
+"	Pakistan","	Feb 17",0,22,2045,93,14,0,0,0,False
+"	Pakistan","	Feb 18",0,13,519,39,9,0,0,0,False
+"	Philippines","	Total",0.005813953,344,2017,142,115,20392,20392,2,
+"	Philippines","	Jan 19",0,7,347,121,4,0,0,0,True
+"	Philippines","	Jan 20",0,7,85,85,2,0,0,0,True
+"	Philippines","	Jan 21",0,29,251,123,12,0,0,0,True
+"	Philippines","	Jan 22",0,23,561,248,12,0,0,0,True
+"	Philippines","	Jan 23",0,11,307,142,6,0,0,0,True
+"	Philippines","	Jan 24",0,15,612,117,12,0,0,0,True
+"	Philippines","	Jan 25",0,9,126,88,4,0,0,0,True
+"	Philippines","	Jan 26",0,9,121,74,4,0,0,0,True
+"	Philippines","	Jan 27",0,19,291,108,7,0,0,0,True
+"	Philippines","	Jan 28",0,32,37,37,2,0,0,0,True
+"	Philippines","	Jan 29",0,35,452,232,5,0,0,0,True
+"	Philippines","	Jan 30",0,16,132,26,5,0,0,0,True
+"	Philippines","	Jan 31",0,4,0,0,0,0,0,0,True
+"	Philippines","	Feb 01",0,6,0,0,0,0,0,0,True
+"	Philippines","	Feb 02",0,11,311,142,7,0,0,0,True
+"	Philippines","	Feb 03",0,13,119,106,7,0,0,0,True
+"	Philippines","	Feb 04",0,27,8,8,1,0,0,0,True
+"	Philippines","	Feb 05",0,19,29286,29286,1,0,0,0,True
+"	Philippines","	Feb 06",0,14,1321,507,4,0,0,0,True
+"	Philippines","	Feb 07",0,8,167,167,1,0,0,0,True
+"	Philippines","	Feb 08",0,6,86,86,2,0,0,0,True
+"	Philippines","	Feb 09",0,15,208,147,3,0,0,0,True
+"	Philippines","	Feb 10",0,18,908,350,6,0,0,0,True
+"	Philippines","	Feb 11",0,37,14194,1394,7,0,0,0,True
+"	Philippines","	Feb 12",0.038461538,26,7757,273,7,39444,39444,1,True
+"	Philippines","	Feb 13",0,19,0,0,0,0,0,0,True
+"	Philippines","	Feb 14",0,10,1090,105,4,0,0,0,True
+"	Philippines","	Feb 15",0,6,204,57,3,0,0,0,True
+"	Philippines","	Feb 16",0,19,246,141,6,0,0,0,False
+"	Philippines","	Feb 17",0,16,2584,221,5,0,0,0,False
+"	Philippines","	Feb 18",0.043478261,23,1580,772,7,1341,1341,1,False
+"	Nigeria","	Total",0.037037037,324,1465,105,165,12093,1976,12,
+"	Nigeria","	Jan 19",0,6,918,349,4,0,0,0,True
+"	Nigeria","	Jan 20",0,12,7395,113,6,0,0,0,True
+"	Nigeria","	Jan 21",0,20,447,35,11,0,0,0,True
+"	Nigeria","	Jan 22",0,26,9450,421,8,0,0,0,True
+"	Nigeria","	Jan 23",0,10,128,20,5,0,0,0,True
+"	Nigeria","	Jan 24",0,5,139,106,3,0,0,0,True
+"	Nigeria","	Jan 25",0,10,64,33,3,0,0,0,True
+"	Nigeria","	Jan 26",0,13,748,114,5,0,0,0,True
+"	Nigeria","	Jan 27",0,26,326,54,12,0,0,0,True
+"	Nigeria","	Jan 28",0.214285714,14,1820,645,6,8890,889,3,True
+"	Nigeria","	Jan 29",0.181818182,11,72,80,6,537,537,2,True
+"	Nigeria","	Jan 30",0.066666667,15,3208,78,7,1247,1247,1,True
+"	Nigeria","	Jan 31",0.066666667,15,513,53,8,824,824,1,True
+"	Nigeria","	Feb 01",0.125,8,47,50,4,1510,1510,1,True
+"	Nigeria","	Feb 02",0,16,1530,400,7,0,0,0,True
+"	Nigeria","	Feb 03",0,16,158,69,12,0,0,0,True
+"	Nigeria","	Feb 04",0,20,286,90,14,0,0,0,True
+"	Nigeria","	Feb 05",0,19,2943,91,10,0,0,0,True
+"	Nigeria","	Feb 06",0,17,354,221,7,0,0,0,True
+"	Nigeria","	Feb 07",0,10,108,22,5,0,0,0,True
+"	Nigeria","	Feb 08",0.1,10,71,78,5,2443,2443,1,True
+"	Nigeria","	Feb 09",0.086956522,23,269,117,11,3891,3891,2,True
+"	Nigeria","	Feb 10",0.043478261,23,5395,65,12,7517,7517,1,True
+"	Nigeria","	Feb 11",0.115384615,26,3613,199,15,4020,596,3,True
+"	Nigeria","	Feb 12",0.111111111,18,472,100,7,8642,8642,2,True
+"	Nigeria","	Feb 13",0.060606061,33,417,52,16,5966,5966,2,True
+"	Nigeria","	Feb 14",0.0625,16,173,38,9,3416,3416,1,True
+"	Nigeria","	Feb 15",0,8,451,451,2,0,0,0,True
+"	Nigeria","	Feb 16",0.045454545,22,66,24,7,81381,81381,1,False
+"	Nigeria","	Feb 17",0.047619048,21,131,115,10,205,205,1,False
+"	Nigeria","	Feb 18",0,20,1106,257,8,0,0,0,False
+"	United Kingdom","	Total",0.114942529,174,1342,94,94,14015,4421,20,
+"	United Kingdom","	Jan 19",0,3,32,32,1,0,0,0,True
+"	United Kingdom","	Jan 20",0,8,281,281,1,0,0,0,True
+"	United Kingdom","	Jan 21",0,7,512,235,4,0,0,0,True
+"	United Kingdom","	Jan 22",0,6,1105,577,3,0,0,0,True
+"	United Kingdom","	Jan 23",0,10,49,56,5,0,0,0,True
+"	United Kingdom","	Jan 24",0,5,49,34,3,0,0,0,True
+"	United Kingdom","	Jan 25",0,5,35,27,3,0,0,0,True
+"	United Kingdom","	Jan 26",0.222222222,9,11549,136,7,35765,35765,2,True
+"	United Kingdom","	Jan 27",0.076923077,13,471,55,6,734,734,1,True
+"	United Kingdom","	Jan 28",0.142857143,14,594,121,7,27378,27378,2,True
+"	United Kingdom","	Jan 29",0,9,1475,184,5,0,0,0,True
+"	United Kingdom","	Jan 30",0.111111111,9,1552,505,5,2628,2628,1,True
+"	United Kingdom","	Jan 31",0.2,5,137,112,3,2460,2460,1,True
+"	United Kingdom","	Feb 01",0,3,83,83,1,0,0,0,True
+"	United Kingdom","	Feb 02",0.142857143,14,147,87,7,4332,4332,2,True
+"	United Kingdom","	Feb 03",0.222222222,9,182,34,5,41335,41335,2,True
+"	United Kingdom","	Feb 04",0.142857143,7,1782,414,5,1159,1159,1,True
+"	United Kingdom","	Feb 05",0.181818182,11,495,206,7,9148,9148,2,True
+"	United Kingdom","	Feb 06",0.142857143,7,82,88,4,4642,4642,1,True
+"	United Kingdom","	Feb 07",0,2,0,0,0,0,0,0,True
+"	United Kingdom","	Feb 08",0.166666667,6,350,213,5,4175,4175,1,True
+"	United Kingdom","	Feb 09",0.153846154,13,275,124,6,1211,1211,2,True
+"	United Kingdom","	Feb 10",0.125,8,1291,111,5,944,944,1,True
+"	United Kingdom","	Feb 11",0,12,194,67,5,0,0,0,True
+"	United Kingdom","	Feb 12",0.076923077,13,65,34,5,1244,1244,1,True
+"	United Kingdom","	Feb 13",0,7,108,25,4,0,0,0,True
+"	United Kingdom","	Feb 14",0,5,130,130,2,0,0,0,True
+"	United Kingdom","	Feb 15",0.142857143,7,1449,888,3,1579,1579,1,True
+"	United Kingdom","	Feb 16",0.25,12,234,210,10,2007,992,3,False
+"	United Kingdom","	Feb 17",0.2,10,212,108,6,16406,16406,2,False
+"	United Kingdom","	Feb 18",0.076923077,13,228,55,6,680,680,1,False
+"	Spain","	Total",0.015873016,126,1451,118,52,3460,3460,2,
+"	Spain","	Jan 19",0,3,0,0,0,0,0,0,True
+"	Spain","	Jan 20",0,5,524,524,1,0,0,0,True
+"	Spain","	Jan 21",0,7,12389,16846,3,0,0,0,True
+"	Spain","	Jan 22",0.166666667,6,7171,323,5,5882,5882,1,True
+"	Spain","	Jan 23",0,1,63,63,1,0,0,0,True
+"	Spain","	Jan 24",0,3,115,115,1,0,0,0,True
+"	Spain","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Spain","	Jan 26",0.083333333,12,100,65,5,92,92,1,True
+"	Spain","	Jan 27",0,4,73,73,1,0,0,0,True
+"	Spain","	Jan 28",0,5,84,77,3,0,0,0,True
+"	Spain","	Jan 29",0.166666667,6,160,54,3,1038,1038,1,True
+"	Spain","	Jan 30",0,7,6477,6477,1,0,0,0,True
+"	Spain","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Spain","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Spain","	Feb 02",0.066666667,15,225,53,7,166,166,1,True
+"	Spain","	Feb 03",0,11,314,155,5,0,0,0,True
+"	Spain","	Feb 04",0,10,590,75,6,0,0,0,True
+"	Spain","	Feb 05",0,7,70,53,5,0,0,0,True
+"	Spain","	Feb 06",0,7,411,411,2,0,0,0,True
+"	Spain","	Feb 07",0,3,111,117,3,0,0,0,True
+"	Spain","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Spain","	Feb 09",0.1,10,674,434,4,2381,2381,1,True
+"	Spain","	Feb 10",0.111111111,9,29818,5208,5,1089,1089,1,True
+"	Spain","	Feb 11",0.1,10,4189,104,6,246,246,1,True
+"	Spain","	Feb 12",0,7,300,243,3,0,0,0,True
+"	Spain","	Feb 13",0,9,871,871,2,0,0,0,True
+"	Spain","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Spain","	Feb 15",0,5,0,0,0,0,0,0,True
+"	Spain","	Feb 16",0,9,63,19,4,0,0,0,False
+"	Spain","	Feb 17",0,6,182,182,2,0,0,0,False
+"	Spain","	Feb 18",0,7,2918,1821,3,0,0,0,False
+"	Bangladesh","	Total",0.018691589,107,1844,93,39,1373,1373,2,
+"	Bangladesh","	Jan 19",0,6,162,162,1,0,0,0,True
+"	Bangladesh","	Jan 20",0,9,11,11,1,0,0,0,True
+"	Bangladesh","	Jan 21",0,5,58,58,1,0,0,0,True
+"	Bangladesh","	Jan 22",0,6,37,37,1,0,0,0,True
+"	Bangladesh","	Jan 23",0,4,3654,3654,1,0,0,0,True
+"	Bangladesh","	Jan 24",0,3,379,379,1,0,0,0,True
+"	Bangladesh","	Jan 25",0,3,312,402,3,0,0,0,True
+"	Bangladesh","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Bangladesh","	Jan 27",0,7,703,703,2,0,0,0,True
+"	Bangladesh","	Jan 28",0,4,151,151,1,0,0,0,True
+"	Bangladesh","	Jan 29",0,4,189,189,2,0,0,0,True
+"	Bangladesh","	Jan 30",0.2,5,405,405,2,520,520,1,True
+"	Bangladesh","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Bangladesh","	Feb 01",0,4,31,31,2,0,0,0,True
+"	Bangladesh","	Feb 02",0,4,30556,30556,2,0,0,0,True
+"	Bangladesh","	Feb 03",0,3,77,125,3,0,0,0,True
+"	Bangladesh","	Feb 04",0,2,0,0,0,0,0,0,True
+"	Bangladesh","	Feb 05",0,5,63,63,2,0,0,0,True
+"	Bangladesh","	Feb 06",0,2,0,0,0,0,0,0,True
+"	Bangladesh","	Feb 07",0,1,18,18,1,0,0,0,True
+"	Bangladesh","	Feb 08",0,4,58,58,1,0,0,0,True
+"	Bangladesh","	Feb 09",0,5,223,253,3,0,0,0,True
+"	Bangladesh","	Feb 10",0,5,522,522,2,0,0,0,True
+"	Bangladesh","	Feb 11",0,4,40,44,3,0,0,0,True
+"	Bangladesh","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Bangladesh","	Feb 13",1,1,261,261,1,2226,2226,1,True
+"	Bangladesh","	Feb 14",0,8,52,52,2,0,0,0,True
+"	Bangladesh","	Feb 15",0,6,129,129,2,0,0,0,True
+"	Bangladesh","	Feb 16",0,5,486,486,2,0,0,0,False
+"	Bangladesh","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Bangladesh","	Feb 18",0,1,0,0,0,0,0,0,False
+"	France","	Total",0.057692308,104,1217,93,52,14984,1032,6,
+"	France","	Jan 19",0,4,13940,13940,1,0,0,0,True
+"	France","	Jan 20",0,8,843,843,2,0,0,0,True
+"	France","	Jan 21",0.166666667,6,29,29,2,197,197,1,True
+"	France","	Jan 22",0.25,4,234,234,2,4433,4433,1,True
+"	France","	Jan 23",0,6,206,75,4,0,0,0,True
+"	France","	Jan 24",0,1,0,0,0,0,0,0,True
+"	France","	Jan 25",0,3,1614,1987,3,0,0,0,True
+"	France","	Jan 26",0,8,272,345,3,0,0,0,True
+"	France","	Jan 27",0.333333333,6,1337,1337,2,42328,42328,2,True
+"	France","	Jan 28",0,5,438,438,2,0,0,0,True
+"	France","	Jan 29",0,8,369,92,6,0,0,0,True
+"	France","	Jan 30",0,4,81,81,1,0,0,0,True
+"	France","	Jan 31",0,0,0,0,0,0,0,0,True
+"	France","	Feb 01",0,4,45,45,1,0,0,0,True
+"	France","	Feb 02",0.2,5,4413,4413,2,104,104,1,True
+"	France","	Feb 03",0.222222222,9,211,50,7,414,414,2,True
+"	France","	Feb 04",0.111111111,9,695,387,5,5434,5434,1,True
+"	France","	Feb 05",0,3,81,81,2,0,0,0,True
+"	France","	Feb 06",0,4,67,67,1,0,0,0,True
+"	France","	Feb 07",0.333333333,3,44,44,1,130,130,1,True
+"	France","	Feb 08",0,2,44,44,2,0,0,0,True
+"	France","	Feb 09",0,3,87,92,3,0,0,0,True
+"	France","	Feb 10",0.076923077,13,3101,21,8,516,516,1,True
+"	France","	Feb 11",0,1,32,32,1,0,0,0,True
+"	France","	Feb 12",0.2,5,6870,6870,2,115,115,1,True
+"	France","	Feb 13",0,5,382,382,2,0,0,0,True
+"	France","	Feb 14",0,0,0,0,0,0,0,0,True
+"	France","	Feb 15",0,1,519,519,1,0,0,0,True
+"	France","	Feb 16",0,4,40,48,3,0,0,0,False
+"	France","	Feb 17",0.1,10,1386,102,7,2089,2089,1,False
+"	France","	Feb 18",0,3,128,128,2,0,0,0,False
+"	Poland","	Total",0.117021277,94,7755,89,39,23510,10846,11,
+"	Poland","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Poland","	Jan 20",0,2,0,0,0,0,0,0,True
+"	Poland","	Jan 21",0,7,545,545,2,0,0,0,True
+"	Poland","	Jan 22",0,3,0,0,0,0,0,0,True
+"	Poland","	Jan 23",0.333333333,3,3953,3953,2,68278,68278,1,True
+"	Poland","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Poland","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Poland","	Jan 26",0.2,5,1089,496,3,70414,70414,1,True
+"	Poland","	Jan 27",0.2,5,213,213,2,1866,1866,1,True
+"	Poland","	Jan 28",0,6,397,166,3,0,0,0,True
+"	Poland","	Jan 29",0,2,0,0,0,0,0,0,True
+"	Poland","	Jan 30",0,6,313,313,2,0,0,0,True
+"	Poland","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Poland","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Poland","	Feb 02",0.333333333,6,23461,84,3,5461,5461,2,True
+"	Poland","	Feb 03",0.125,8,606,331,4,76,76,1,True
+"	Poland","	Feb 04",0,6,15,15,1,0,0,0,True
+"	Poland","	Feb 05",0.090909091,11,118,60,7,9530,9530,1,True
+"	Poland","	Feb 06",0,7,34,34,2,0,0,0,True
+"	Poland","	Feb 07",0,2,0,0,0,0,0,0,True
+"	Poland","	Feb 08",0.666666667,3,1492,61,3,31173,31173,2,True
+"	Poland","	Feb 09",0.3,10,133,100,5,6072,4759,3,True
+"	Poland","	Feb 10",0.125,8,947,148,3,3513,3513,1,True
+"	Poland","	Feb 11",0,7,17,15,3,0,0,0,True
+"	Poland","	Feb 12",0.090909091,11,14160,27,4,17242,17242,1,True
+"	Poland","	Feb 13",0.2,5,11,11,2,17242,17242,1,True
+"	Poland","	Feb 14",0,1,406,406,1,0,0,0,True
+"	Poland","	Feb 15",0,1,0,0,0,0,0,0,True
+"	Poland","	Feb 16",0.2,5,24237,52,3,239,239,1,False
+"	Poland","	Feb 17",0.1,10,13821,34,6,1530,1530,1,False
+"	Poland","	Feb 18",0,11,358,57,8,0,0,0,False
+"	Egypt","	Total",0.021276596,94,244,113,36,1106,1106,2,
+"	Egypt","	Jan 19",0,1,0,0,0,0,0,0,True
+"	Egypt","	Jan 20",0,1,0,0,0,0,0,0,True
+"	Egypt","	Jan 21",0,5,102,102,1,0,0,0,True
+"	Egypt","	Jan 22",0,7,470,470,2,0,0,0,True
+"	Egypt","	Jan 23",0.2,5,139,123,3,2065,2065,1,True
+"	Egypt","	Jan 24",0,3,0,0,0,0,0,0,True
+"	Egypt","	Jan 25",0,5,34,34,2,0,0,0,True
+"	Egypt","	Jan 26",0,2,0,0,0,0,0,0,True
+"	Egypt","	Jan 27",0,2,64,64,2,0,0,0,True
+"	Egypt","	Jan 28",0,5,79,79,2,0,0,0,True
+"	Egypt","	Jan 29",0,1,0,0,0,0,0,0,True
+"	Egypt","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Egypt","	Jan 31",0,2,470,470,2,0,0,0,True
+"	Egypt","	Feb 01",0,3,560,560,2,0,0,0,True
+"	Egypt","	Feb 02",0,7,307,32,3,0,0,0,True
+"	Egypt","	Feb 03",0,8,179,148,4,0,0,0,True
+"	Egypt","	Feb 04",0,7,27,37,3,0,0,0,True
+"	Egypt","	Feb 05",0,2,0,0,0,0,0,0,True
+"	Egypt","	Feb 06",0,2,952,952,1,0,0,0,True
+"	Egypt","	Feb 07",0,3,0,0,0,0,0,0,True
+"	Egypt","	Feb 08",0,5,67,48,3,0,0,0,True
+"	Egypt","	Feb 09",0.2,5,202,202,1,147,147,1,True
+"	Egypt","	Feb 10",0,3,398,398,2,0,0,0,True
+"	Egypt","	Feb 11",0,5,0,0,0,0,0,0,True
+"	Egypt","	Feb 12",0,9,9,9,1,0,0,0,True
+"	Egypt","	Feb 13",0,5,87,55,3,0,0,0,True
+"	Egypt","	Feb 14",0,4,135,183,3,0,0,0,True
+"	Egypt","	Feb 15",0,3,0,0,0,0,0,0,True
+"	Egypt","	Feb 16",0,5,325,325,2,0,0,0,False
+"	Egypt","	Feb 17",0,3,35,35,2,0,0,0,False
+"	Egypt","	Feb 18",0,1,0,0,0,0,0,0,False
+"	Canada","	Total",0.068181818,88,4280,133,42,11978,4273,6,
+"	Canada","	Jan 19",0,3,166,166,1,0,0,0,True
+"	Canada","	Jan 20",0,4,128,88,3,0,0,0,True
+"	Canada","	Jan 21",0,3,39,39,1,0,0,0,True
+"	Canada","	Jan 22",0.2,5,355,355,2,282,282,1,True
+"	Canada","	Jan 23",0,2,212,212,1,0,0,0,True
+"	Canada","	Jan 24",0.4,5,279,232,3,9268,9268,2,True
+"	Canada","	Jan 25",0,2,22,22,1,0,0,0,True
+"	Canada","	Jan 26",0.2,5,41,41,2,44947,44947,1,True
+"	Canada","	Jan 27",0.333333333,3,291,247,3,1353,1353,1,True
+"	Canada","	Jan 28",0.142857143,7,69,69,2,3033,3033,1,True
+"	Canada","	Jan 29",0.1,10,413,353,4,7193,7193,1,True
+"	Canada","	Jan 30",0,2,153,153,1,0,0,0,True
+"	Canada","	Jan 31",0,2,32,32,1,0,0,0,True
+"	Canada","	Feb 01",0,2,41507,41507,1,0,0,0,True
+"	Canada","	Feb 02",0,4,18,18,2,0,0,0,True
+"	Canada","	Feb 03",0,4,44,15,3,0,0,0,True
+"	Canada","	Feb 04",0,4,91,91,2,0,0,0,True
+"	Canada","	Feb 05",0,2,0,0,0,0,0,0,True
+"	Canada","	Feb 06",0,2,37,37,1,0,0,0,True
+"	Canada","	Feb 07",0,3,200,200,2,0,0,0,True
+"	Canada","	Feb 08",0,1,0,0,0,0,0,0,True
+"	Canada","	Feb 09",0.25,4,150,74,3,16838,16838,1,True
+"	Canada","	Feb 10",0.1,10,16398,1124,7,13874,13874,1,True
+"	Canada","	Feb 11",0.25,4,1124,255,4,955,955,1,True
+"	Canada","	Feb 12",0,8,293,86,6,0,0,0,True
+"	Canada","	Feb 13",0,6,19,21,3,0,0,0,True
+"	Canada","	Feb 14",0,2,9223,9223,2,0,0,0,True
+"	Canada","	Feb 15",0,4,120,120,2,0,0,0,True
+"	Canada","	Feb 16",0,2,0,0,0,0,0,0,False
+"	Canada","	Feb 17",0,4,2327,1262,4,0,0,0,False
+"	Canada","	Feb 18",0,4,876,876,2,0,0,0,False
+"	South Africa","	Total",0.097560976,82,2010,184,45,10890,1812,8,
+"	South Africa","	Jan 19",0.25,4,327,260,3,1881,1881,1,True
+"	South Africa","	Jan 20",0,3,7652,7652,1,0,0,0,True
+"	South Africa","	Jan 21",0,1,198,198,1,0,0,0,True
+"	South Africa","	Jan 22",0,3,5316,944,3,0,0,0,True
+"	South Africa","	Jan 23",0,2,0,0,0,0,0,0,True
+"	South Africa","	Jan 24",0,0,0,0,0,0,0,0,True
+"	South Africa","	Jan 25",0,2,26,26,1,0,0,0,True
+"	South Africa","	Jan 26",0.666666667,3,222,222,2,11826,11826,2,True
+"	South Africa","	Jan 27",0.166666667,6,388,173,5,5904,5904,1,True
+"	South Africa","	Jan 28",0.166666667,6,284,189,3,1200,1200,1,True
+"	South Africa","	Jan 29",0.25,4,96,75,3,1744,1744,1,True
+"	South Africa","	Jan 30",0,6,31,31,2,0,0,0,True
+"	South Africa","	Jan 31",0,0,0,0,0,0,0,0,True
+"	South Africa","	Feb 01",0,1,0,0,0,0,0,0,True
+"	South Africa","	Feb 02",0,9,241,13,5,0,0,0,True
+"	South Africa","	Feb 03",0,3,80,80,2,0,0,0,True
+"	South Africa","	Feb 04",0,5,19,24,4,0,0,0,True
+"	South Africa","	Feb 05",0,6,266,266,2,0,0,0,True
+"	South Africa","	Feb 06",0,1,0,0,0,0,0,0,True
+"	South Africa","	Feb 07",0,0,0,0,0,0,0,0,True
+"	South Africa","	Feb 08",1,1,56987,56987,1,369,369,1,True
+"	South Africa","	Feb 09",0.25,4,272,389,3,369,369,1,True
+"	South Africa","	Feb 10",0.2,5,1847,1831,4,1719,1719,1,True
+"	South Africa","	Feb 11",0,1,0,0,0,0,0,0,True
+"	South Africa","	Feb 12",0,4,3210,191,3,0,0,0,True
+"	South Africa","	Feb 13",0,4,184,184,2,0,0,0,True
+"	South Africa","	Feb 14",0,3,71,71,1,0,0,0,True
+"	South Africa","	Feb 15",1,1,263,263,1,56677,56677,1,True
+"	South Africa","	Feb 16",0.142857143,7,640,76,5,400,400,1,False
+"	South Africa","	Feb 17",0.142857143,7,287,291,3,1080,1080,1,False
+"	South Africa","	Feb 18",0,6,212,43,3,0,0,0,False
+"	Germany","	Total",0.106666667,75,4747,154,32,10275,3843,8,
+"	Germany","	Jan 19",0,1,65182,65182,1,0,0,0,True
+"	Germany","	Jan 20",0,2,20,20,1,0,0,0,True
+"	Germany","	Jan 21",0.25,4,49,49,2,692,692,1,True
+"	Germany","	Jan 22",0,5,36,36,2,0,0,0,True
+"	Germany","	Jan 23",0,2,42,42,1,0,0,0,True
+"	Germany","	Jan 24",0.333333333,3,130,130,2,911,911,1,True
+"	Germany","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Germany","	Jan 26",0,7,50,51,4,0,0,0,True
+"	Germany","	Jan 27",0,5,213,213,2,0,0,0,True
+"	Germany","	Jan 28",0,3,0,0,0,0,0,0,True
+"	Germany","	Jan 29",0,2,425,425,1,0,0,0,True
+"	Germany","	Jan 30",0,1,0,0,0,0,0,0,True
+"	Germany","	Jan 31",0,1,38,38,1,0,0,0,True
+"	Germany","	Feb 01",0,2,0,0,0,0,0,0,True
+"	Germany","	Feb 02",0.25,4,282,365,3,746,746,1,True
+"	Germany","	Feb 03",1,1,69487,69487,1,6144,6144,1,True
+"	Germany","	Feb 04",0.5,2,341,341,1,6144,6144,1,True
+"	Germany","	Feb 05",0.25,8,2247,297,5,5681,5681,2,True
+"	Germany","	Feb 06",0.5,2,19,19,1,997,997,1,True
+"	Germany","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Germany","	Feb 08",0,1,0,0,0,0,0,0,True
+"	Germany","	Feb 09",0,3,44,44,1,0,0,0,True
+"	Germany","	Feb 10",0.142857143,7,530,409,4,1542,1542,1,True
+"	Germany","	Feb 11",0,5,27,27,2,0,0,0,True
+"	Germany","	Feb 12",0.5,4,632,48,3,7786,7786,2,True
+"	Germany","	Feb 13",0,4,21,21,1,0,0,0,True
+"	Germany","	Feb 14",0,2,0,0,0,0,0,0,True
+"	Germany","	Feb 15",0.5,2,443,443,1,47986,47986,1,True
+"	Germany","	Feb 16",0,3,114,114,2,0,0,0,False
+"	Germany","	Feb 17",0,6,219,171,3,0,0,0,False
+"	Germany","	Feb 18",0,7,37,38,3,0,0,0,False
+"	Morocco","	Total",0.054054054,74,400,80,35,12341,1968,4,
+"	Morocco","	Jan 19",0.5,2,311,311,2,3246,3246,1,True
+"	Morocco","	Jan 20",0,2,592,592,1,0,0,0,True
+"	Morocco","	Jan 21",0,2,112,112,1,0,0,0,True
+"	Morocco","	Jan 22",0,5,5596,39,3,0,0,0,True
+"	Morocco","	Jan 23",0,4,181,231,3,0,0,0,True
+"	Morocco","	Jan 24",0,4,45,45,2,0,0,0,True
+"	Morocco","	Jan 25",0,4,46,46,2,0,0,0,True
+"	Morocco","	Jan 26",0,4,5968,238,3,0,0,0,True
+"	Morocco","	Jan 27",0,1,2741,2741,1,0,0,0,True
+"	Morocco","	Jan 28",0,5,5726,139,3,0,0,0,True
+"	Morocco","	Jan 29",0,7,2069,106,3,0,0,0,True
+"	Morocco","	Jan 30",0,5,358,374,3,0,0,0,True
+"	Morocco","	Jan 31",0.25,4,165,165,2,690,690,1,True
+"	Morocco","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Morocco","	Feb 02",0.25,4,42886,42886,2,20158,20158,1,True
+"	Morocco","	Feb 03",0,5,72,45,3,0,0,0,True
+"	Morocco","	Feb 04",0,3,0,0,0,0,0,0,True
+"	Morocco","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Morocco","	Feb 06",0,4,17,17,1,0,0,0,True
+"	Morocco","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Morocco","	Feb 08",0,3,332,332,1,0,0,0,True
+"	Morocco","	Feb 09",0.2,5,1354,57,5,251,251,1,True
+"	Morocco","	Feb 10",0,4,26973,11,3,0,0,0,True
+"	Morocco","	Feb 11",0,5,153,164,4,0,0,0,True
+"	Morocco","	Feb 12",0.142857143,7,13673,194,6,45177,45177,1,True
+"	Morocco","	Feb 13",0.083333333,12,360,28,7,2904,2904,1,True
+"	Morocco","	Feb 14",0,3,234,234,1,0,0,0,True
+"	Morocco","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Morocco","	Feb 16",0,6,628,13,3,0,0,0,False
+"	Morocco","	Feb 17",0,6,211,118,3,0,0,0,False
+"	Morocco","	Feb 18",0,2,135,135,1,0,0,0,False
+"	Mexico","	Total",0.014285714,70,862,164,26,25417,25417,1,
+"	Mexico","	Jan 19",0,5,10,10,1,0,0,0,True
+"	Mexico","	Jan 20",0,1,545,545,1,0,0,0,True
+"	Mexico","	Jan 21",0.25,4,52,48,3,25417,25417,1,True
+"	Mexico","	Jan 22",0,6,1562,133,3,0,0,0,True
+"	Mexico","	Jan 23",0,1,27,27,1,0,0,0,True
+"	Mexico","	Jan 24",0,1,0,0,0,0,0,0,True
+"	Mexico","	Jan 25",0,1,0,0,0,0,0,0,True
+"	Mexico","	Jan 26",0,2,89,89,1,0,0,0,True
+"	Mexico","	Jan 27",0,5,4775,291,4,0,0,0,True
+"	Mexico","	Jan 28",0,4,306,95,3,0,0,0,True
+"	Mexico","	Jan 29",0,2,89,89,1,0,0,0,True
+"	Mexico","	Jan 30",0,5,328,328,2,0,0,0,True
+"	Mexico","	Jan 31",0,1,0,0,0,0,0,0,True
+"	Mexico","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Mexico","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Mexico","	Feb 03",0,4,0,0,0,0,0,0,True
+"	Mexico","	Feb 04",0,7,198,248,3,0,0,0,True
+"	Mexico","	Feb 05",0,5,560,235,4,0,0,0,True
+"	Mexico","	Feb 06",0,4,14,14,2,0,0,0,True
+"	Mexico","	Feb 07",0,1,278,278,1,0,0,0,True
+"	Mexico","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Mexico","	Feb 09",0,2,0,0,0,0,0,0,True
+"	Mexico","	Feb 10",0,6,139,164,4,0,0,0,True
+"	Mexico","	Feb 11",0,4,437,437,1,0,0,0,True
+"	Mexico","	Feb 12",0,4,774,774,1,0,0,0,True
+"	Mexico","	Feb 13",0,5,6720,6720,2,0,0,0,True
+"	Mexico","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Mexico","	Feb 15",0,1,0,0,0,0,0,0,True
+"	Mexico","	Feb 16",0,6,42,42,1,0,0,0,False
+"	Mexico","	Feb 17",0,6,315,315,1,0,0,0,False
+"	Mexico","	Feb 18",0,1,151,151,1,0,0,0,False
+"	Turkey","	Total",0.030769231,65,303,122,26,4430,4430,2,
+"	Turkey","	Jan 19",0,2,0,0,0,0,0,0,True
+"	Turkey","	Jan 20",0,4,589,589,2,0,0,0,True
+"	Turkey","	Jan 21",0.333333333,3,94,94,2,1724,1724,1,True
+"	Turkey","	Jan 22",0,4,1119,1119,1,0,0,0,True
+"	Turkey","	Jan 23",0,3,2935,2935,1,0,0,0,True
+"	Turkey","	Jan 24",0,3,126,126,1,0,0,0,True
+"	Turkey","	Jan 25",0,1,946,946,1,0,0,0,True
+"	Turkey","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Turkey","	Jan 27",0,2,0,0,0,0,0,0,True
+"	Turkey","	Jan 28",0.333333333,3,71,62,3,7136,7136,1,True
+"	Turkey","	Jan 29",0.5,2,7,7,1,11475,11475,1,True
+"	Turkey","	Jan 30",0,3,39,39,1,0,0,0,True
+"	Turkey","	Jan 31",0,1,0,0,0,0,0,0,True
+"	Turkey","	Feb 01",0,3,122,122,1,0,0,0,True
+"	Turkey","	Feb 02",0,5,345,345,2,0,0,0,True
+"	Turkey","	Feb 03",0,5,11,11,1,0,0,0,True
+"	Turkey","	Feb 04",0,5,39,39,2,0,0,0,True
+"	Turkey","	Feb 05",0.2,5,3143,3143,2,61685,61685,1,True
+"	Turkey","	Feb 06",0.333333333,3,18,18,2,61685,61685,1,True
+"	Turkey","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Turkey","	Feb 08",0,1,0,0,0,0,0,0,True
+"	Turkey","	Feb 09",0,3,14,14,1,0,0,0,True
+"	Turkey","	Feb 10",0,5,171,171,2,0,0,0,True
+"	Turkey","	Feb 11",0,4,14,14,2,0,0,0,True
+"	Turkey","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Turkey","	Feb 13",0,2,1742,1742,1,0,0,0,True
+"	Turkey","	Feb 14",0,2,177,177,1,0,0,0,True
+"	Turkey","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Turkey","	Feb 16",0,1,8,8,1,0,0,0,False
+"	Turkey","	Feb 17",0,4,282,70,3,0,0,0,False
+"	Turkey","	Feb 18",0,5,55,38,3,0,0,0,False
+"	United Arab Emirates","	Total",0.015873016,63,2344,67,31,3389,3389,1,
+"	United Arab Emirates","	Jan 19",0,1,0,0,0,0,0,0,True
+"	United Arab Emirates","	Jan 20",0,2,33269,33269,2,0,0,0,True
+"	United Arab Emirates","	Jan 21",0,1,29,29,1,0,0,0,True
+"	United Arab Emirates","	Jan 22",0,5,27,27,2,0,0,0,True
+"	United Arab Emirates","	Jan 23",0,1,56,56,1,0,0,0,True
+"	United Arab Emirates","	Jan 24",0,1,0,0,0,0,0,0,True
+"	United Arab Emirates","	Jan 25",0,3,66,62,3,0,0,0,True
+"	United Arab Emirates","	Jan 26",0,3,201,201,1,0,0,0,True
+"	United Arab Emirates","	Jan 27",0,1,72,72,1,0,0,0,True
+"	United Arab Emirates","	Jan 28",0,5,342,93,5,0,0,0,True
+"	United Arab Emirates","	Jan 29",0,7,1745,435,3,0,0,0,True
+"	United Arab Emirates","	Jan 30",0,8,826,519,3,0,0,0,True
+"	United Arab Emirates","	Jan 31",0,4,43,22,3,0,0,0,True
+"	United Arab Emirates","	Feb 01",0,1,0,0,0,0,0,0,True
+"	United Arab Emirates","	Feb 02",0,5,85,84,3,0,0,0,True
+"	United Arab Emirates","	Feb 03",0,2,0,0,0,0,0,0,True
+"	United Arab Emirates","	Feb 04",0,4,116,67,3,0,0,0,True
+"	United Arab Emirates","	Feb 05",0,1,16230,16230,1,0,0,0,True
+"	United Arab Emirates","	Feb 06",0,0,0,0,0,0,0,0,True
+"	United Arab Emirates","	Feb 07",0,0,0,0,0,0,0,0,True
+"	United Arab Emirates","	Feb 08",0,0,0,0,0,0,0,0,True
+"	United Arab Emirates","	Feb 09",0,6,60,60,1,0,0,0,True
+"	United Arab Emirates","	Feb 10",0,3,55,55,1,0,0,0,True
+"	United Arab Emirates","	Feb 11",0.25,4,42,39,3,3389,3389,1,True
+"	United Arab Emirates","	Feb 12",0,4,80,80,2,0,0,0,True
+"	United Arab Emirates","	Feb 13",0,4,37,37,2,0,0,0,True
+"	United Arab Emirates","	Feb 14",0,3,223,223,1,0,0,0,True
+"	United Arab Emirates","	Feb 15",0,0,0,0,0,0,0,0,True
+"	United Arab Emirates","	Feb 16",0,2,35,35,2,0,0,0,False
+"	United Arab Emirates","	Feb 17",0,3,8,8,1,0,0,0,False
+"	United Arab Emirates","	Feb 18",0,1,0,0,0,0,0,0,False
+"	Ukraine","	Total",0.118644068,59,272,79,32,8354,1104,7,
+"	Ukraine","	Jan 19",0,2,120,120,1,0,0,0,True
+"	Ukraine","	Jan 20",0,1,0,0,0,0,0,0,True
+"	Ukraine","	Jan 21",0,1,167,167,1,0,0,0,True
+"	Ukraine","	Jan 22",0,2,14,14,1,0,0,0,True
+"	Ukraine","	Jan 23",0,2,0,0,0,0,0,0,True
+"	Ukraine","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Ukraine","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Ukraine","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Ukraine","	Jan 27",0,1,551,551,1,0,0,0,True
+"	Ukraine","	Jan 28",0,4,101,101,1,0,0,0,True
+"	Ukraine","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Ukraine","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Ukraine","	Jan 31",0,4,141,55,4,0,0,0,True
+"	Ukraine","	Feb 01",0,1,29,29,1,0,0,0,True
+"	Ukraine","	Feb 02",0,5,74,34,3,0,0,0,True
+"	Ukraine","	Feb 03",0,4,1973,1973,2,0,0,0,True
+"	Ukraine","	Feb 04",0,3,40,40,2,0,0,0,True
+"	Ukraine","	Feb 05",0.25,4,91,91,2,1104,1104,1,True
+"	Ukraine","	Feb 06",0.25,4,291,291,2,209,209,1,True
+"	Ukraine","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Ukraine","	Feb 08",0,1,147,147,1,0,0,0,True
+"	Ukraine","	Feb 09",1,2,239,239,2,4569,4569,2,True
+"	Ukraine","	Feb 10",0.142857143,7,59,43,4,751,751,1,True
+"	Ukraine","	Feb 11",0.5,4,37,19,3,23106,23106,2,True
+"	Ukraine","	Feb 12",0.5,4,797,210,4,37226,37226,2,True
+"	Ukraine","	Feb 13",0.333333333,3,147,147,1,341,341,1,True
+"	Ukraine","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Ukraine","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Ukraine","	Feb 16",0.125,8,542,447,4,349,349,1,False
+"	Ukraine","	Feb 17",0.142857143,7,513,573,3,2704,2704,1,False
+"	Ukraine","	Feb 18",0.142857143,7,57,57,2,100,100,1,False
+"	Colombia","	Total",0.070175439,57,3064,110,35,6024,4705,4,
+"	Colombia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Colombia","	Jan 20",0,4,41,41,4,0,0,0,True
+"	Colombia","	Jan 21",0,1,34,34,1,0,0,0,True
+"	Colombia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Colombia","	Jan 23",0,3,898,898,1,0,0,0,True
+"	Colombia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Colombia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Colombia","	Jan 26",0,2,54,54,2,0,0,0,True
+"	Colombia","	Jan 27",0,3,18080,18080,1,0,0,0,True
+"	Colombia","	Jan 28",0,3,89,89,2,0,0,0,True
+"	Colombia","	Jan 29",0,1,2998,2998,1,0,0,0,True
+"	Colombia","	Jan 30",0.333333333,6,119,135,3,445,445,2,True
+"	Colombia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Colombia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Colombia","	Feb 02",0.2,5,111,71,3,1928,1928,1,True
+"	Colombia","	Feb 03",0.25,4,23757,2251,3,14281,14281,1,True
+"	Colombia","	Feb 04",0,4,665,665,2,0,0,0,True
+"	Colombia","	Feb 05",0,3,6590,167,3,0,0,0,True
+"	Colombia","	Feb 06",0.25,4,105,46,3,589,589,1,True
+"	Colombia","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Colombia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Colombia","	Feb 09",0.25,4,2145,2145,2,16195,16195,1,True
+"	Colombia","	Feb 10",0.142857143,7,16706,114,5,1100,1100,1,True
+"	Colombia","	Feb 11",0,3,1849,2553,3,0,0,0,True
+"	Colombia","	Feb 12",0.142857143,7,67,57,6,1109,1109,1,True
+"	Colombia","	Feb 13",0,4,79,79,2,0,0,0,True
+"	Colombia","	Feb 14",1,1,110,110,1,8925,8925,1,True
+"	Colombia","	Feb 15",0,1,0,0,0,0,0,0,True
+"	Colombia","	Feb 16",0,5,183,168,4,0,0,0,False
+"	Colombia","	Feb 17",0,5,2012,672,4,0,0,0,False
+"	Colombia","	Feb 18",0,3,52,52,1,0,0,0,False
+"	Netherlands","	Total",0.071428571,56,497,97,30,6937,6828,4,
+"	Netherlands","	Jan 19",0,4,489,489,2,0,0,0,True
+"	Netherlands","	Jan 20",0,3,11,11,1,0,0,0,True
+"	Netherlands","	Jan 21",0,5,21,21,1,0,0,0,True
+"	Netherlands","	Jan 22",0,5,76,76,4,0,0,0,True
+"	Netherlands","	Jan 23",0.166666667,6,633,214,4,13358,13358,1,True
+"	Netherlands","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Netherlands","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Netherlands","	Jan 26",0,2,70,70,2,0,0,0,True
+"	Netherlands","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Netherlands","	Jan 28",0.333333333,3,23,23,2,7981,7981,1,True
+"	Netherlands","	Jan 29",0.25,4,138,109,4,4902,4902,1,True
+"	Netherlands","	Jan 30",0,4,916,465,3,0,0,0,True
+"	Netherlands","	Jan 31",0,1,178,178,1,0,0,0,True
+"	Netherlands","	Feb 01",0,2,37,37,2,0,0,0,True
+"	Netherlands","	Feb 02",0.142857143,7,236,88,5,736,736,1,True
+"	Netherlands","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Netherlands","	Feb 04",0,5,1120,1120,1,0,0,0,True
+"	Netherlands","	Feb 05",0,2,124,124,1,0,0,0,True
+"	Netherlands","	Feb 06",0,2,3570,3570,1,0,0,0,True
+"	Netherlands","	Feb 07",0,1,81,81,1,0,0,0,True
+"	Netherlands","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Netherlands","	Feb 09",0,2,0,0,0,0,0,0,True
+"	Netherlands","	Feb 10",0.333333333,3,1022,126,3,12760,12760,1,True
+"	Netherlands","	Feb 11",0,2,0,0,0,0,0,0,True
+"	Netherlands","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Netherlands","	Feb 13",0,1,0,0,0,0,0,0,True
+"	Netherlands","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Netherlands","	Feb 15",0,2,79,79,1,0,0,0,True
+"	Netherlands","	Feb 16",0.25,4,1916,1916,1,897,897,1,False
+"	Netherlands","	Feb 17",0,2,0,0,0,0,0,0,False
+"	Netherlands","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Italy","	Total",0.020833333,48,487,153,16,83348,83348,1,
+"	Italy","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Italy","	Jan 20",0,1,0,0,0,0,0,0,True
+"	Italy","	Jan 21",0,2,92,92,2,0,0,0,True
+"	Italy","	Jan 22",0,3,22,22,1,0,0,0,True
+"	Italy","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Italy","	Jan 24",0,2,0,0,0,0,0,0,True
+"	Italy","	Jan 25",0,1,0,0,0,0,0,0,True
+"	Italy","	Jan 26",0.5,2,846,846,1,83348,83348,1,True
+"	Italy","	Jan 27",0,1,622,622,1,0,0,0,True
+"	Italy","	Jan 28",0,2,0,0,0,0,0,0,True
+"	Italy","	Jan 29",0,2,93,93,1,0,0,0,True
+"	Italy","	Jan 30",0,4,113,157,3,0,0,0,True
+"	Italy","	Jan 31",0,2,13,13,1,0,0,0,True
+"	Italy","	Feb 01",0,1,0,0,0,0,0,0,True
+"	Italy","	Feb 02",0,2,61,61,1,0,0,0,True
+"	Italy","	Feb 03",0,3,61,61,1,0,0,0,True
+"	Italy","	Feb 04",0,1,1795,1795,1,0,0,0,True
+"	Italy","	Feb 05",0,4,34,34,1,0,0,0,True
+"	Italy","	Feb 06",0,3,0,0,0,0,0,0,True
+"	Italy","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Italy","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Italy","	Feb 09",0,3,0,0,0,0,0,0,True
+"	Italy","	Feb 10",0,2,0,0,0,0,0,0,True
+"	Italy","	Feb 11",0,2,1022,1022,1,0,0,0,True
+"	Italy","	Feb 12",0,6,91,83,3,0,0,0,True
+"	Italy","	Feb 13",0,2,0,0,0,0,0,0,True
+"	Italy","	Feb 14",0,1,574,574,1,0,0,0,True
+"	Italy","	Feb 15",0,1,0,0,0,0,0,0,True
+"	Italy","	Feb 16",0,7,2476,2476,1,0,0,0,False
+"	Italy","	Feb 17",0,4,44,34,3,0,0,0,False
+"	Italy","	Feb 18",0,5,92,92,2,0,0,0,False
+"	Argentina","	Total",0,37,1194,180,10,0,0,0,
+"	Argentina","	Jan 19",0,1,0,0,0,0,0,0,True
+"	Argentina","	Jan 20",0,1,97,97,1,0,0,0,True
+"	Argentina","	Jan 21",0,3,0,0,0,0,0,0,True
+"	Argentina","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Argentina","	Jan 23",0,3,55,55,1,0,0,0,True
+"	Argentina","	Jan 24",0,2,226,226,1,0,0,0,True
+"	Argentina","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Argentina","	Jan 26",0,2,36,36,1,0,0,0,True
+"	Argentina","	Jan 27",0,2,0,0,0,0,0,0,True
+"	Argentina","	Jan 28",0,2,0,0,0,0,0,0,True
+"	Argentina","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Argentina","	Jan 30",0,1,0,0,0,0,0,0,True
+"	Argentina","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Argentina","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Argentina","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Argentina","	Feb 03",0,4,3310,3310,2,0,0,0,True
+"	Argentina","	Feb 04",0,3,128,128,2,0,0,0,True
+"	Argentina","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Argentina","	Feb 06",0,1,0,0,0,0,0,0,True
+"	Argentina","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Argentina","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Argentina","	Feb 09",0,3,0,0,0,0,0,0,True
+"	Argentina","	Feb 10",0,3,0,0,0,0,0,0,True
+"	Argentina","	Feb 11",0,2,0,0,0,0,0,0,True
+"	Argentina","	Feb 12",0,3,0,0,0,0,0,0,True
+"	Argentina","	Feb 13",0,5,1438,1438,1,0,0,0,True
+"	Argentina","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Argentina","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Argentina","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Argentina","	Feb 17",0,2,502,502,2,0,0,0,False
+"	Argentina","	Feb 18",0,2,1432,1432,2,0,0,0,False
+"	Peru","	Total",0,37,4198,84,20,0,0,0,
+"	Peru","	Jan 19",0,3,26,26,1,0,0,0,True
+"	Peru","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Peru","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Peru","	Jan 22",0,3,808,378,3,0,0,0,True
+"	Peru","	Jan 23",0,1,38,38,1,0,0,0,True
+"	Peru","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Peru","	Jan 25",0,1,0,0,0,0,0,0,True
+"	Peru","	Jan 26",0,3,487,84,3,0,0,0,True
+"	Peru","	Jan 27",0,3,241,215,3,0,0,0,True
+"	Peru","	Jan 28",0,3,162,162,2,0,0,0,True
+"	Peru","	Jan 29",0,5,870,870,2,0,0,0,True
+"	Peru","	Jan 30",0,3,1141,1141,2,0,0,0,True
+"	Peru","	Jan 31",0,2,0,0,0,0,0,0,True
+"	Peru","	Feb 01",0,2,0,0,0,0,0,0,True
+"	Peru","	Feb 02",0,4,488,328,4,0,0,0,True
+"	Peru","	Feb 03",0,2,37619,37619,2,0,0,0,True
+"	Peru","	Feb 04",0,2,34052,34052,2,0,0,0,True
+"	Peru","	Feb 05",0,5,837,437,3,0,0,0,True
+"	Peru","	Feb 06",0,4,45,46,3,0,0,0,True
+"	Peru","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Peru","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Peru","	Feb 09",0,2,930,930,1,0,0,0,True
+"	Peru","	Feb 10",0,2,182,182,2,0,0,0,True
+"	Peru","	Feb 11",0,3,815,815,1,0,0,0,True
+"	Peru","	Feb 12",0,5,1141,41,4,0,0,0,True
+"	Peru","	Feb 13",0,2,1228,1228,2,0,0,0,True
+"	Peru","	Feb 14",0,1,0,0,0,0,0,0,True
+"	Peru","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Peru","	Feb 16",0,1,19,19,1,0,0,0,False
+"	Peru","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Peru","	Feb 18",0,1,47,47,1,0,0,0,False
+"	Indonesia","	Total",0,37,905,312,9,0,0,0,
+"	Indonesia","	Jan 19",0,1,0,0,0,0,0,0,True
+"	Indonesia","	Jan 20",0,2,0,0,0,0,0,0,True
+"	Indonesia","	Jan 21",0,1,0,0,0,0,0,0,True
+"	Indonesia","	Jan 22",0,1,44,44,1,0,0,0,True
+"	Indonesia","	Jan 23",0,2,69,69,1,0,0,0,True
+"	Indonesia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Indonesia","	Jan 25",0,1,0,0,0,0,0,0,True
+"	Indonesia","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Indonesia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Indonesia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Indonesia","	Jan 29",0,3,0,0,0,0,0,0,True
+"	Indonesia","	Jan 30",0,5,783,783,1,0,0,0,True
+"	Indonesia","	Jan 31",0,2,0,0,0,0,0,0,True
+"	Indonesia","	Feb 01",0,1,0,0,0,0,0,0,True
+"	Indonesia","	Feb 02",0,3,140,140,1,0,0,0,True
+"	Indonesia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Indonesia","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Indonesia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Indonesia","	Feb 06",0,2,0,0,0,0,0,0,True
+"	Indonesia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Indonesia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Indonesia","	Feb 09",0,2,0,0,0,0,0,0,True
+"	Indonesia","	Feb 10",0,1,0,0,0,0,0,0,True
+"	Indonesia","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Indonesia","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Indonesia","	Feb 13",0,1,6013,6013,1,0,0,0,True
+"	Indonesia","	Feb 14",0,1,0,0,0,0,0,0,True
+"	Indonesia","	Feb 15",0,1,140,140,1,0,0,0,True
+"	Indonesia","	Feb 16",0,2,325,325,2,0,0,0,False
+"	Indonesia","	Feb 17",0,2,312,312,1,0,0,0,False
+"	Indonesia","	Feb 18",0,4,0,0,0,0,0,0,False
+"	Portugal","	Total",0.111111111,36,227,85,17,3447,3996,4,
+"	Portugal","	Jan 19",0,2,0,0,0,0,0,0,True
+"	Portugal","	Jan 20",0,1,0,0,0,0,0,0,True
+"	Portugal","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Portugal","	Jan 22",0,2,39,39,1,0,0,0,True
+"	Portugal","	Jan 23",0,2,706,706,1,0,0,0,True
+"	Portugal","	Jan 24",0,1,0,0,0,0,0,0,True
+"	Portugal","	Jan 25",0,1,286,286,1,0,0,0,True
+"	Portugal","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Portugal","	Jan 27",0,1,0,0,0,0,0,0,True
+"	Portugal","	Jan 28",0.333333333,3,34,34,1,4286,4286,1,True
+"	Portugal","	Jan 29",0,3,194,194,1,0,0,0,True
+"	Portugal","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Portugal","	Jan 31",0,1,28,28,1,0,0,0,True
+"	Portugal","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Portugal","	Feb 02",0.25,4,178,110,4,3706,3706,1,True
+"	Portugal","	Feb 03",0,2,0,0,0,0,0,0,True
+"	Portugal","	Feb 04",0,2,83257,83257,1,0,0,0,True
+"	Portugal","	Feb 05",0,2,2086,2086,2,0,0,0,True
+"	Portugal","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Portugal","	Feb 07",0.333333333,3,1519,1519,1,1239,1239,1,True
+"	Portugal","	Feb 08",0,1,0,0,0,0,0,0,True
+"	Portugal","	Feb 09",0,2,979,979,1,0,0,0,True
+"	Portugal","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Portugal","	Feb 11",0.25,4,61,61,1,297,297,1,True
+"	Portugal","	Feb 12",0,3,286,286,2,0,0,0,True
+"	Portugal","	Feb 13",0,1,0,0,0,0,0,0,True
+"	Portugal","	Feb 14",0,1,157,157,1,0,0,0,True
+"	Portugal","	Feb 15",1,1,42,42,1,5501,5501,1,True
+"	Portugal","	Feb 16",0,2,0,0,0,0,0,0,False
+"	Portugal","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Portugal","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Australia","	Total",0.057142857,35,3981,77,12,2444,2444,2,
+"	Australia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Australia","	Jan 20",0,2,0,0,0,0,0,0,True
+"	Australia","	Jan 21",0,1,0,0,0,0,0,0,True
+"	Australia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Australia","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Australia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Australia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Australia","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Australia","	Jan 27",0,2,151,151,1,0,0,0,True
+"	Australia","	Jan 28",0,2,0,0,0,0,0,0,True
+"	Australia","	Jan 29",0.5,2,29025,29025,1,4173,4173,1,True
+"	Australia","	Jan 30",0,2,215,215,2,0,0,0,True
+"	Australia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Australia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Australia","	Feb 02",0,2,0,0,0,0,0,0,True
+"	Australia","	Feb 03",0,3,0,0,0,0,0,0,True
+"	Australia","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Australia","	Feb 05",0,2,0,0,0,0,0,0,True
+"	Australia","	Feb 06",0,2,52,52,1,0,0,0,True
+"	Australia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Australia","	Feb 08",0,2,16782,16782,1,0,0,0,True
+"	Australia","	Feb 09",0,1,56,56,1,0,0,0,True
+"	Australia","	Feb 10",0,3,0,0,0,0,0,0,True
+"	Australia","	Feb 11",0,2,0,0,0,0,0,0,True
+"	Australia","	Feb 12",0.333333333,3,33,33,1,716,716,1,True
+"	Australia","	Feb 13",0,2,0,0,0,0,0,0,True
+"	Australia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Australia","	Feb 15",0,2,572,572,2,0,0,0,True
+"	Australia","	Feb 16",0,2,32,32,1,0,0,0,False
+"	Australia","	Feb 17",0,5,62,62,2,0,0,0,False
+"	Australia","	Feb 18",0,3,0,0,0,0,0,0,False
+"	Saudi Arabia","	Total",0.085714286,35,6295,89,13,184,115,3,
+"	Saudi Arabia","	Jan 19",0,2,0,0,0,0,0,0,True
+"	Saudi Arabia","	Jan 20",0,2,0,0,0,0,0,0,True
+"	Saudi Arabia","	Jan 21",0.5,2,75594,75594,1,71,71,1,True
+"	Saudi Arabia","	Jan 22",0.666666667,3,340,340,2,219,219,2,True
+"	Saudi Arabia","	Jan 23",0,2,46,46,1,0,0,0,True
+"	Saudi Arabia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Saudi Arabia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Saudi Arabia","	Jan 26",0,2,50,50,1,0,0,0,True
+"	Saudi Arabia","	Jan 27",0,1,0,0,0,0,0,0,True
+"	Saudi Arabia","	Jan 28",0,1,89,89,1,0,0,0,True
+"	Saudi Arabia","	Jan 29",0,3,0,0,0,0,0,0,True
+"	Saudi Arabia","	Jan 30",0,1,0,0,0,0,0,0,True
+"	Saudi Arabia","	Jan 31",0,1,0,0,0,0,0,0,True
+"	Saudi Arabia","	Feb 01",0,1,0,0,0,0,0,0,True
+"	Saudi Arabia","	Feb 02",0,3,57,57,1,0,0,0,True
+"	Saudi Arabia","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Saudi Arabia","	Feb 04",0,3,75,75,1,0,0,0,True
+"	Saudi Arabia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Saudi Arabia","	Feb 06",0,1,704,704,1,0,0,0,True
+"	Saudi Arabia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Saudi Arabia","	Feb 08",0,2,76,76,1,0,0,0,True
+"	Saudi Arabia","	Feb 09",0,3,4257,4257,1,0,0,0,True
+"	Saudi Arabia","	Feb 10",0,2,79,79,1,0,0,0,True
+"	Saudi Arabia","	Feb 11",0,2,90,90,1,0,0,0,True
+"	Saudi Arabia","	Feb 12",0,3,26,26,1,0,0,0,True
+"	Saudi Arabia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Saudi Arabia","	Feb 14",0,1,0,0,0,0,0,0,True
+"	Saudi Arabia","	Feb 15",0,1,21,21,1,0,0,0,True
+"	Saudi Arabia","	Feb 16",0,2,32,32,2,0,0,0,False
+"	Saudi Arabia","	Feb 17",1,1,700,700,1,115,115,1,False
+"	Saudi Arabia","	Feb 18",0,1,0,0,0,0,0,0,False
+"	Vietnam","	Total",0,24,12281,206,7,0,0,0,
+"	Vietnam","	Jan 19",0,2,0,0,0,0,0,0,True
+"	Vietnam","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Jan 21",0,1,35,35,1,0,0,0,True
+"	Vietnam","	Jan 22",0,2,23,23,2,0,0,0,True
+"	Vietnam","	Jan 23",0,2,0,0,0,0,0,0,True
+"	Vietnam","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Jan 26",0,3,414,414,1,0,0,0,True
+"	Vietnam","	Jan 27",0,2,863,863,2,0,0,0,True
+"	Vietnam","	Jan 28",0,4,26,26,2,0,0,0,True
+"	Vietnam","	Jan 29",0,4,206,206,1,0,0,0,True
+"	Vietnam","	Jan 30",0,1,0,0,0,0,0,0,True
+"	Vietnam","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Vietnam","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Vietnam","	Feb 05",0,3,0,0,0,0,0,0,True
+"	Vietnam","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Feb 08",0,1,0,0,0,0,0,0,True
+"	Vietnam","	Feb 09",0,3,83927,83927,1,0,0,0,True
+"	Vietnam","	Feb 10",0,2,811,811,1,0,0,0,True
+"	Vietnam","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Vietnam","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Feb 13",0,1,0,0,0,0,0,0,True
+"	Vietnam","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Vietnam","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Vietnam","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Vietnam","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Sweden","	Total",0,20,1261,81,10,0,0,0,
+"	Sweden","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Sweden","	Jan 20",0,2,0,0,0,0,0,0,True
+"	Sweden","	Jan 21",0,2,9,9,1,0,0,0,True
+"	Sweden","	Jan 22",0,1,75,75,1,0,0,0,True
+"	Sweden","	Jan 23",0,1,78,78,1,0,0,0,True
+"	Sweden","	Jan 24",0,1,0,0,0,0,0,0,True
+"	Sweden","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Sweden","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Sweden","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Sweden","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Sweden","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Sweden","	Jan 30",0,1,0,0,0,0,0,0,True
+"	Sweden","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Sweden","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Sweden","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Sweden","	Feb 03",0,1,70,70,1,0,0,0,True
+"	Sweden","	Feb 04",0,3,123,123,2,0,0,0,True
+"	Sweden","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Sweden","	Feb 06",0,2,36,36,1,0,0,0,True
+"	Sweden","	Feb 07",0,1,134,134,1,0,0,0,True
+"	Sweden","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Sweden","	Feb 09",0,5,3012,289,4,0,0,0,True
+"	Sweden","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Sweden","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Sweden","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Sweden","	Feb 13",0,1,0,0,0,0,0,0,True
+"	Sweden","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Sweden","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Sweden","	Feb 16",0,1,0,0,0,0,0,0,False
+"	Sweden","	Feb 17",0,1,250,250,1,0,0,0,False
+"	Sweden","	Feb 18",0,1,0,0,0,0,0,0,False
+"	Chile","	Total",0.105263158,19,12435,805,7,12953,12953,2,
+"	Chile","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Chile","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Chile","	Jan 21",0,1,0,0,0,0,0,0,True
+"	Chile","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Chile","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Chile","	Jan 24",0,1,0,0,0,0,0,0,True
+"	Chile","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Chile","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Chile","	Jan 27",0,1,0,0,0,0,0,0,True
+"	Chile","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Chile","	Jan 29",0,4,55,55,1,0,0,0,True
+"	Chile","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Chile","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Chile","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Chile","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Chile","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Chile","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Chile","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Chile","	Feb 06",0,1,7114,7114,1,0,0,0,True
+"	Chile","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Chile","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Chile","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Chile","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Chile","	Feb 11",0.5,2,77111,77111,1,9104,9104,1,True
+"	Chile","	Feb 12",0.2,5,885,885,2,9104,9104,1,True
+"	Chile","	Feb 13",0.333333333,3,293,293,2,1917,1917,1,True
+"	Chile","	Feb 14",0,1,20,20,1,0,0,0,True
+"	Chile","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Chile","	Feb 16",0.666666667,3,686,711,3,10889,10889,2,False
+"	Chile","	Feb 17",0.333333333,3,1589,1589,2,39075,39075,1,False
+"	Chile","	Feb 18",0.5,2,126,126,2,1738,1738,1,False
+"	Singapore","	Total",0.210526316,19,136,90,11,18630,1424,4,
+"	Singapore","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Singapore","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Singapore","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Singapore","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Singapore","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Singapore","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Singapore","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Singapore","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Singapore","	Jan 27",0.5,2,52,52,1,71611,71611,1,True
+"	Singapore","	Jan 28",0.5,4,1038,1038,2,16497,16497,2,True
+"	Singapore","	Jan 29",0.333333333,3,6132,675,3,60838,60838,1,True
+"	Singapore","	Jan 30",1,1,1524,1524,1,2729,2729,1,True
+"	Singapore","	Jan 31",0,1,151,151,1,0,0,0,True
+"	Singapore","	Feb 01",0,1,11,11,1,0,0,0,True
+"	Singapore","	Feb 02",0.5,2,706,706,2,2294,2294,1,True
+"	Singapore","	Feb 03",0,3,100,100,2,0,0,0,True
+"	Singapore","	Feb 04",0,3,5,5,1,0,0,0,True
+"	Singapore","	Feb 05",0,2,21,21,1,0,0,0,True
+"	Singapore","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Singapore","	Feb 07",0.5,2,102,102,1,236,236,1,True
+"	Singapore","	Feb 08",0,2,90,90,1,0,0,0,True
+"	Singapore","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Singapore","	Feb 10",0.333333333,3,92,92,2,2613,2613,1,True
+"	Singapore","	Feb 11",0.5,2,1443,1443,1,334,334,1,True
+"	Singapore","	Feb 12",0,2,220,220,1,0,0,0,True
+"	Singapore","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Singapore","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Singapore","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Singapore","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Singapore","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Singapore","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Romania","	Total",0.166666667,18,146,78,10,22320,15992,3,
+"	Romania","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Romania","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Romania","	Jan 21",1,1,452,452,1,50678,50678,1,True
+"	Romania","	Jan 22",0,1,196,196,1,0,0,0,True
+"	Romania","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Romania","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Romania","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Romania","	Jan 26",0,5,59,71,3,0,0,0,True
+"	Romania","	Jan 27",0.5,2,74,74,1,291,291,1,True
+"	Romania","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Romania","	Jan 29",0,1,0,0,0,0,0,0,True
+"	Romania","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Romania","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Romania","	Feb 01",0,1,19,19,1,0,0,0,True
+"	Romania","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Romania","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Romania","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Romania","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Romania","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Romania","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Romania","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Romania","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Romania","	Feb 10",0,2,785,785,2,0,0,0,True
+"	Romania","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Romania","	Feb 12",1,1,82,82,1,15992,15992,1,True
+"	Romania","	Feb 13",1,1,4783,4783,1,17376,17376,1,True
+"	Romania","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Romania","	Feb 15",0,1,401,401,1,0,0,0,True
+"	Romania","	Feb 16",0,2,0,0,0,0,0,0,False
+"	Romania","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Romania","	Feb 18",0,2,0,0,0,0,0,0,False
+"	Tunisia","	Total",0.058823529,17,617,39,9,912,912,1,
+"	Tunisia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Jan 21",0,1,11,11,1,0,0,0,True
+"	Tunisia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Jan 23",0,3,19,19,1,0,0,0,True
+"	Tunisia","	Jan 24",0,2,230,230,1,0,0,0,True
+"	Tunisia","	Jan 25",0,1,0,0,0,0,0,0,True
+"	Tunisia","	Jan 26",0,1,57602,57602,1,0,0,0,True
+"	Tunisia","	Jan 27",0,1,510,510,1,0,0,0,True
+"	Tunisia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Jan 30",0,1,0,0,0,0,0,0,True
+"	Tunisia","	Jan 31",0,1,0,0,0,0,0,0,True
+"	Tunisia","	Feb 01",0,1,95,95,1,0,0,0,True
+"	Tunisia","	Feb 02",0,2,28,28,1,0,0,0,True
+"	Tunisia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Tunisia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Feb 06",0,1,39,39,1,0,0,0,True
+"	Tunisia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Feb 09",0,1,28,28,1,0,0,0,True
+"	Tunisia","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Tunisia","	Feb 12",0,1,105,105,1,0,0,0,True
+"	Tunisia","	Feb 13",0,1,0,0,0,0,0,0,True
+"	Tunisia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Tunisia","	Feb 15",0,2,1554,1554,1,0,0,0,True
+"	Tunisia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Tunisia","	Feb 17",0.5,2,60,60,1,912,912,1,False
+"	Tunisia","	Feb 18",0,3,1872,1872,2,0,0,0,False
+"	Bulgaria","	Total",0,16,108,100,7,0,0,0,
+"	Bulgaria","	Jan 19",0,1,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Feb 03",0,2,100,100,1,0,0,0,True
+"	Bulgaria","	Feb 04",0,2,208,208,1,0,0,0,True
+"	Bulgaria","	Feb 05",0,3,67,67,2,0,0,0,True
+"	Bulgaria","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Feb 11",0,1,5,5,1,0,0,0,True
+"	Bulgaria","	Feb 12",0,1,260,260,1,0,0,0,True
+"	Bulgaria","	Feb 13",0,1,41,41,1,0,0,0,True
+"	Bulgaria","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Bulgaria","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Bulgaria","	Feb 17",0,2,0,0,0,0,0,0,False
+"	Bulgaria","	Feb 18",0,3,139,139,1,0,0,0,False
+"	Kenya","	Total",0.0625,16,376,157,7,75837,75837,1,
+"	Kenya","	Jan 19",0,2,61,61,1,0,0,0,True
+"	Kenya","	Jan 20",0,1,0,0,0,0,0,0,True
+"	Kenya","	Jan 21",0,2,0,0,0,0,0,0,True
+"	Kenya","	Jan 22",0.333333333,3,32,32,1,75837,75837,1,True
+"	Kenya","	Jan 23",0.333333333,3,832,832,2,9803,9803,1,True
+"	Kenya","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Kenya","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Kenya","	Jan 26",0,3,119,119,1,0,0,0,True
+"	Kenya","	Jan 27",0,1,0,0,0,0,0,0,True
+"	Kenya","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Kenya","	Jan 29",0,1,0,0,0,0,0,0,True
+"	Kenya","	Jan 30",0,1,0,0,0,0,0,0,True
+"	Kenya","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Kenya","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Kenya","	Feb 02",0,2,0,0,0,0,0,0,True
+"	Kenya","	Feb 03",0,1,113,113,1,0,0,0,True
+"	Kenya","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Kenya","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Kenya","	Feb 06",0,1,0,0,0,0,0,0,True
+"	Kenya","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Kenya","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Kenya","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Kenya","	Feb 10",0,1,0,0,0,0,0,0,True
+"	Kenya","	Feb 11",0,2,272,272,1,0,0,0,True
+"	Kenya","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Kenya","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Kenya","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Kenya","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Kenya","	Feb 16",0,2,377,377,1,0,0,0,False
+"	Kenya","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Kenya","	Feb 18",0,3,157,157,1,0,0,0,False
+"	Malaysia","	Total",0.0625,16,95,73,3,890,890,1,
+"	Malaysia","	Jan 19",0,1,0,0,0,0,0,0,True
+"	Malaysia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Malaysia","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Malaysia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Jan 27",0,1,0,0,0,0,0,0,True
+"	Malaysia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Malaysia","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Malaysia","	Feb 06",0,2,53,53,1,0,0,0,True
+"	Malaysia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Feb 08",0,1,73,73,1,0,0,0,True
+"	Malaysia","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Malaysia","	Feb 10",0,2,89,89,1,0,0,0,True
+"	Malaysia","	Feb 11",0,3,0,0,0,0,0,0,True
+"	Malaysia","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Malaysia","	Feb 13",0,1,0,0,0,0,0,0,True
+"	Malaysia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Malaysia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Malaysia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Malaysia","	Feb 18",1,1,161,161,1,890,890,1,False
+"	Belgium","	Total",0.071428571,14,130,121,5,413,413,1,
+"	Belgium","	Jan 19",0,1,0,0,0,0,0,0,True
+"	Belgium","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Belgium","	Jan 21",0,1,0,0,0,0,0,0,True
+"	Belgium","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Belgium","	Jan 23",0,1,93,93,1,0,0,0,True
+"	Belgium","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Belgium","	Jan 25",0,1,0,0,0,0,0,0,True
+"	Belgium","	Jan 26",0,1,45,45,1,0,0,0,True
+"	Belgium","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Belgium","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Belgium","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Belgium","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Belgium","	Jan 31",0,1,259,259,1,0,0,0,True
+"	Belgium","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Belgium","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Belgium","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Belgium","	Feb 04",0,2,159,159,1,0,0,0,True
+"	Belgium","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Belgium","	Feb 06",0.5,2,85,85,2,413,413,1,True
+"	Belgium","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Belgium","	Feb 08",0,1,22,22,1,0,0,0,True
+"	Belgium","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Belgium","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Belgium","	Feb 11",0,2,0,0,0,0,0,0,True
+"	Belgium","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Belgium","	Feb 13",0,1,121,121,1,0,0,0,True
+"	Belgium","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Belgium","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Belgium","	Feb 16",0,1,0,0,0,0,0,0,False
+"	Belgium","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Belgium","	Feb 18",0,4,0,0,0,0,0,0,False
+"	Israel","	Total",0.071428571,14,2482,60,8,708,708,1,
+"	Israel","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Israel","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Israel","	Jan 21",0,1,20,20,1,0,0,0,True
+"	Israel","	Jan 22",0,1,17,17,1,0,0,0,True
+"	Israel","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Israel","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Israel","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Israel","	Jan 26",0,1,6,6,1,0,0,0,True
+"	Israel","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Israel","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Israel","	Jan 29",0,2,4688,4688,1,0,0,0,True
+"	Israel","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Israel","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Israel","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Israel","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Israel","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Israel","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Israel","	Feb 05",1,1,31,31,1,708,708,1,True
+"	Israel","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Israel","	Feb 07",0,1,14869,14869,1,0,0,0,True
+"	Israel","	Feb 08",0,1,0,0,0,0,0,0,True
+"	Israel","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Israel","	Feb 10",0,2,0,0,0,0,0,0,True
+"	Israel","	Feb 11",0,1,140,140,1,0,0,0,True
+"	Israel","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Israel","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Israel","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Israel","	Feb 15",0,1,0,0,0,0,0,0,True
+"	Israel","	Feb 16",0,1,0,0,0,0,0,0,False
+"	Israel","	Feb 17",0,1,89,89,1,0,0,0,False
+"	Israel","	Feb 18",0,1,0,0,0,0,0,0,False
+"	Lithuania","	Total",0.142857143,14,336,220,11,3445,3445,2,
+"	Lithuania","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Jan 21",0,1,0,0,0,0,0,0,True
+"	Lithuania","	Jan 22",0,1,1439,1439,1,0,0,0,True
+"	Lithuania","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Jan 26",0,4,74,28,4,0,0,0,True
+"	Lithuania","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Jan 28",0,1,37,37,1,0,0,0,True
+"	Lithuania","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 02",1,1,425,425,1,911,911,1,True
+"	Lithuania","	Feb 03",1,1,29,29,1,62,62,1,True
+"	Lithuania","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 10",0,1,630,630,1,0,0,0,True
+"	Lithuania","	Feb 11",0.333333333,3,428,428,2,5979,5979,1,True
+"	Lithuania","	Feb 12",1,1,322,322,1,1012,1012,1,True
+"	Lithuania","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Lithuania","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Lithuania","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Lithuania","	Feb 18",0,2,20,20,1,0,0,0,False
+"	Greece","	Total",0,13,152,56,7,0,0,0,
+"	Greece","	Jan 19",0,1,33,33,1,0,0,0,True
+"	Greece","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Greece","	Jan 21",0,1,497,497,1,0,0,0,True
+"	Greece","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Greece","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Greece","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Greece","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Greece","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Greece","	Jan 27",0,1,32,32,1,0,0,0,True
+"	Greece","	Jan 28",0,1,103,103,1,0,0,0,True
+"	Greece","	Jan 29",0,2,61,61,1,0,0,0,True
+"	Greece","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Greece","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Greece","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Greece","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Greece","	Feb 03",0,2,56,56,1,0,0,0,True
+"	Greece","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Greece","	Feb 05",0,2,55,55,1,0,0,0,True
+"	Greece","	Feb 06",0,1,0,0,0,0,0,0,True
+"	Greece","	Feb 07",0,2,65,65,1,0,0,0,True
+"	Greece","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Greece","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Greece","	Feb 10",0,2,0,0,0,0,0,0,True
+"	Greece","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Greece","	Feb 12",0,1,123,123,1,0,0,0,True
+"	Greece","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Greece","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Greece","	Feb 15",0,1,293,293,1,0,0,0,True
+"	Greece","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Greece","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Greece","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Ecuador","	Total",0.076923077,13,3975,3975,1,19073,19073,1,
+"	Ecuador","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Jan 20",0,1,0,0,0,0,0,0,True
+"	Ecuador","	Jan 21",0,2,0,0,0,0,0,0,True
+"	Ecuador","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Ecuador","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Jan 27",0,1,0,0,0,0,0,0,True
+"	Ecuador","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Ecuador","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Feb 01",0,2,0,0,0,0,0,0,True
+"	Ecuador","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Ecuador","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Feb 04",1,1,3975,3975,1,19073,19073,1,True
+"	Ecuador","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Ecuador","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Ecuador","	Feb 10",0,1,0,0,0,0,0,0,True
+"	Ecuador","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Ecuador","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Ecuador","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Ecuador","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Ecuador","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Latvia","	Total",0,12,445,399,4,0,0,0,
+"	Latvia","	Jan 19",0,1,0,0,0,0,0,0,True
+"	Latvia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Latvia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Latvia","	Jan 22",0,2,237,237,2,0,0,0,True
+"	Latvia","	Jan 23",0,1,62,62,1,0,0,0,True
+"	Latvia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Latvia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Latvia","	Jan 26",0,2,343,343,1,0,0,0,True
+"	Latvia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Latvia","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Latvia","	Jan 29",0,1,965,965,1,0,0,0,True
+"	Latvia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Latvia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 01",0,1,0,0,0,0,0,0,True
+"	Latvia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 06",0,1,0,0,0,0,0,0,True
+"	Latvia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 10",0,1,0,0,0,0,0,0,True
+"	Latvia","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Latvia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 14",0,1,0,0,0,0,0,0,True
+"	Latvia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Latvia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Latvia","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Latvia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Cameroon","	Total",0,12,7911,156,12,0,0,0,
+"	Cameroon","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Feb 01",0,1,68,68,1,0,0,0,True
+"	Cameroon","	Feb 02",0,2,19642,19642,2,0,0,0,True
+"	Cameroon","	Feb 03",0,1,1412,1412,1,0,0,0,True
+"	Cameroon","	Feb 04",0,2,481,481,2,0,0,0,True
+"	Cameroon","	Feb 05",0,3,58,69,3,0,0,0,True
+"	Cameroon","	Feb 06",0,1,9,9,1,0,0,0,True
+"	Cameroon","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Feb 11",0,1,38,38,1,0,0,0,True
+"	Cameroon","	Feb 12",0,2,26450,26450,2,0,0,0,True
+"	Cameroon","	Feb 13",0,2,253,253,2,0,0,0,True
+"	Cameroon","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Cameroon","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Cameroon","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Cameroon","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Armenia","	Total",0,12,173,125,5,0,0,0,
+"	Armenia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Armenia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Armenia","	Jan 21",0,1,0,0,0,0,0,0,True
+"	Armenia","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Armenia","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Armenia","	Jan 24",0,1,0,0,0,0,0,0,True
+"	Armenia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Armenia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Armenia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Armenia","	Jan 28",0,1,36,36,1,0,0,0,True
+"	Armenia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Armenia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Armenia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 02",0,2,123,123,2,0,0,0,True
+"	Armenia","	Feb 03",0,2,5332,5332,2,0,0,0,True
+"	Armenia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 06",0,2,125,125,1,0,0,0,True
+"	Armenia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Armenia","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Armenia","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Armenia","	Feb 16",0,1,459,459,1,0,0,0,False
+"	Armenia","	Feb 17",0,2,135,135,1,0,0,0,False
+"	Armenia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Algeria","	Total",0,12,671,89,9,0,0,0,
+"	Algeria","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Algeria","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Algeria","	Jan 21",0,1,0,0,0,0,0,0,True
+"	Algeria","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Algeria","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Algeria","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Algeria","	Jan 25",0,1,89,89,1,0,0,0,True
+"	Algeria","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Algeria","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Algeria","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Algeria","	Jan 29",0,2,43,43,1,0,0,0,True
+"	Algeria","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Algeria","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Algeria","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Algeria","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Algeria","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Algeria","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Algeria","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Algeria","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Algeria","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Algeria","	Feb 08",0,2,2578,2578,2,0,0,0,True
+"	Algeria","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Algeria","	Feb 10",0,2,136,136,2,0,0,0,True
+"	Algeria","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Algeria","	Feb 12",0,1,37,37,1,0,0,0,True
+"	Algeria","	Feb 13",0,2,259,259,1,0,0,0,True
+"	Algeria","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Algeria","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Algeria","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Algeria","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Algeria","	Feb 18",0,1,185,185,1,0,0,0,False
+"	Serbia","	Total",0.25,12,124,54,7,1985,1819,3,
+"	Serbia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Serbia","	Jan 20",0,1,49,49,1,0,0,0,True
+"	Serbia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Serbia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Serbia","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Serbia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Serbia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Serbia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Serbia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Serbia","	Jan 28",0,1,15,15,1,0,0,0,True
+"	Serbia","	Jan 29",1,1,437,437,1,1819,1819,1,True
+"	Serbia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Serbia","	Jan 31",1,1,17,17,1,95,95,1,True
+"	Serbia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Serbia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Serbia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Serbia","	Feb 04",0.5,4,49,49,2,2068,2068,2,True
+"	Serbia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Serbia","	Feb 06",0,2,54,54,1,0,0,0,True
+"	Serbia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Serbia","	Feb 08",1,1,84,84,1,639,639,1,True
+"	Serbia","	Feb 09",0,1,65,65,1,0,0,0,True
+"	Serbia","	Feb 10",0,1,0,0,0,0,0,0,True
+"	Serbia","	Feb 11",0,2,26,26,1,0,0,0,True
+"	Serbia","	Feb 12",0,2,0,0,0,0,0,0,True
+"	Serbia","	Feb 13",0,1,241,241,1,0,0,0,True
+"	Serbia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Serbia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Serbia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Serbia","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Serbia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Japan","	Total",0,11,21,21,2,0,0,0,
+"	Japan","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Japan","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Japan","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Japan","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Japan","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Japan","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Japan","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Japan","	Jan 26",0,1,14,14,1,0,0,0,True
+"	Japan","	Jan 27",0,2,85826,85826,1,0,0,0,True
+"	Japan","	Jan 28",0,1,4017,4017,1,0,0,0,True
+"	Japan","	Jan 29",0,1,10,10,1,0,0,0,True
+"	Japan","	Jan 30",0,1,2871,2871,1,0,0,0,True
+"	Japan","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Japan","	Feb 01",0,1,0,0,0,0,0,0,True
+"	Japan","	Feb 02",0,1,5161,5161,1,0,0,0,True
+"	Japan","	Feb 03",0,1,28,28,1,0,0,0,True
+"	Japan","	Feb 04",0,3,1410,1410,2,0,0,0,True
+"	Japan","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Japan","	Feb 06",0,4,11785,11785,1,0,0,0,True
+"	Japan","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Japan","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Japan","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Japan","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Japan","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Japan","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Japan","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Japan","	Feb 14",0,2,0,0,0,0,0,0,True
+"	Japan","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Japan","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Japan","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Japan","	Feb 18",0,1,0,0,0,0,0,0,False
+"	Ghana","	Total",0.1,10,384,47,4,813,813,1,
+"	Ghana","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Ghana","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Ghana","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Ghana","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Ghana","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Ghana","	Jan 24",0,2,61,61,1,0,0,0,True
+"	Ghana","	Jan 25",0,1,0,0,0,0,0,0,True
+"	Ghana","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Ghana","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Ghana","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Ghana","	Jan 29",0,1,0,0,0,0,0,0,True
+"	Ghana","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Ghana","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 07",0,1,13,13,1,0,0,0,True
+"	Ghana","	Feb 08",0,2,0,0,0,0,0,0,True
+"	Ghana","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 11",0,1,34,34,1,0,0,0,True
+"	Ghana","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Ghana","	Feb 14",0,1,0,0,0,0,0,0,True
+"	Ghana","	Feb 15",0,1,0,0,0,0,0,0,True
+"	Ghana","	Feb 16",0,1,0,0,0,0,0,0,False
+"	Ghana","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Ghana","	Feb 18",1,1,1429,1429,1,813,813,1,False
+"	Thailand","	Total",0.1,10,172,124,6,2194,2194,1,
+"	Thailand","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Thailand","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Thailand","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Thailand","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Thailand","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Thailand","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Thailand","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Thailand","	Jan 26",0,2,71,71,1,0,0,0,True
+"	Thailand","	Jan 27",0,1,178,178,1,0,0,0,True
+"	Thailand","	Jan 28",0,2,0,0,0,0,0,0,True
+"	Thailand","	Jan 29",0.5,2,262,262,2,2194,2194,1,True
+"	Thailand","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Thailand","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Thailand","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Thailand","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Thailand","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Thailand","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Thailand","	Feb 05",0,1,240,240,1,0,0,0,True
+"	Thailand","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Thailand","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Thailand","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Thailand","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Thailand","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Thailand","	Feb 11",0,2,32,32,1,0,0,0,True
+"	Thailand","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Thailand","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Thailand","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Thailand","	Feb 15",0,1,16,16,1,0,0,0,True
+"	Thailand","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Thailand","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Thailand","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Ireland","	Total",0,10,1952,81,6,0,0,0,
+"	Ireland","	Jan 19",0,3,10945,10945,1,0,0,0,True
+"	Ireland","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Ireland","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Ireland","	Jan 22",0,1,16,16,1,0,0,0,True
+"	Ireland","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Ireland","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Ireland","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Ireland","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Ireland","	Jan 27",0,1,20,20,1,0,0,0,True
+"	Ireland","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Ireland","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Ireland","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Ireland","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Ireland","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 06",0,2,364,364,2,0,0,0,True
+"	Ireland","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Ireland","	Feb 10",0,1,8,8,1,0,0,0,True
+"	Ireland","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 13",0,1,12,12,1,0,0,0,True
+"	Ireland","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Ireland","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Ireland","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Ireland","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Qatar","	Total",0,10,149,40,7,0,0,0,
+"	Qatar","	Jan 19",0,1,0,0,0,0,0,0,True
+"	Qatar","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Qatar","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Qatar","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Qatar","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Qatar","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Qatar","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Qatar","	Jan 26",0,2,0,0,0,0,0,0,True
+"	Qatar","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Qatar","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Qatar","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Qatar","	Jan 30",0,1,265,265,1,0,0,0,True
+"	Qatar","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Qatar","	Feb 01",0,1,31,31,1,0,0,0,True
+"	Qatar","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Qatar","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Qatar","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Qatar","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Qatar","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Qatar","	Feb 07",0,1,40,40,1,0,0,0,True
+"	Qatar","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Qatar","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Qatar","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Qatar","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Qatar","	Feb 12",0,1,255,255,1,0,0,0,True
+"	Qatar","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Qatar","	Feb 14",0,2,23,23,2,0,0,0,True
+"	Qatar","	Feb 15",0,1,39,39,1,0,0,0,True
+"	Qatar","	Feb 16",0,2,43363,43363,2,0,0,0,False
+"	Qatar","	Feb 17",0,2,178,178,2,0,0,0,False
+"	Qatar","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Sri Lanka","	Total",0,9,185,76,5,0,0,0,
+"	Sri Lanka","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Jan 20",0,1,0,0,0,0,0,0,True
+"	Sri Lanka","	Jan 21",0,1,0,0,0,0,0,0,True
+"	Sri Lanka","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Sri Lanka","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Sri Lanka","	Jan 27",0,3,385,385,2,0,0,0,True
+"	Sri Lanka","	Jan 28",0,2,24,24,1,0,0,0,True
+"	Sri Lanka","	Jan 29",0,2,76,76,1,0,0,0,True
+"	Sri Lanka","	Jan 30",0,1,0,0,0,0,0,0,True
+"	Sri Lanka","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 02",0,2,57,57,1,0,0,0,True
+"	Sri Lanka","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Sri Lanka","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Sri Lanka","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Sri Lanka","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Switzerland","	Total",0,9,18299,994,5,0,0,0,
+"	Switzerland","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Jan 20",0,1,0,0,0,0,0,0,True
+"	Switzerland","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Jan 25",0,1,0,0,0,0,0,0,True
+"	Switzerland","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Jan 27",0,2,511,511,2,0,0,0,True
+"	Switzerland","	Jan 28",0,1,495,495,1,0,0,0,True
+"	Switzerland","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Feb 02",0,2,4901,4901,1,0,0,0,True
+"	Switzerland","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Switzerland","	Feb 04",0,2,0,0,0,0,0,0,True
+"	Switzerland","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Switzerland","	Feb 06",0,1,0,0,0,0,0,0,True
+"	Switzerland","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Feb 09",0,2,0,0,0,0,0,0,True
+"	Switzerland","	Feb 10",0,2,85550,85550,1,0,0,0,True
+"	Switzerland","	Feb 11",0,2,57,57,1,0,0,0,True
+"	Switzerland","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Switzerland","	Feb 13",0,1,23,23,1,0,0,0,True
+"	Switzerland","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Switzerland","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Switzerland","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Switzerland","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Kazakhstan","	Total",0,8,86,84,3,0,0,0,
+"	Kazakhstan","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Jan 22",0,1,22,22,1,0,0,0,True
+"	Kazakhstan","	Jan 23",0,2,0,0,0,0,0,0,True
+"	Kazakhstan","	Jan 24",0,1,84,84,1,0,0,0,True
+"	Kazakhstan","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Jan 30",0,2,153,153,1,0,0,0,True
+"	Kazakhstan","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Kazakhstan","	Feb 16",0,1,0,0,0,0,0,0,False
+"	Kazakhstan","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Kazakhstan","	Feb 18",0,1,0,0,0,0,0,0,False
+"	Hungary","	Total",0.125,8,219,231,3,1993,1993,1,
+"	Hungary","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Hungary","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Hungary","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 01",0,1,231,231,1,0,0,0,True
+"	Hungary","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Hungary","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 06",0,1,261,261,1,0,0,0,True
+"	Hungary","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 10",1,1,165,165,1,1993,1993,1,True
+"	Hungary","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Hungary","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Hungary","	Feb 16",0,1,0,0,0,0,0,0,False
+"	Hungary","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Hungary","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Finland","	Total",0.428571429,7,110,82,6,48322,58803,3,
+"	Finland","	Jan 19",0,1,95,95,1,0,0,0,True
+"	Finland","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Finland","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 04",0,1,305,305,1,0,0,0,True
+"	Finland","	Feb 05",0,1,499,499,1,0,0,0,True
+"	Finland","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 10",0,1,28,28,1,0,0,0,True
+"	Finland","	Feb 11",0.666666667,3,100,100,2,43082,43082,2,True
+"	Finland","	Feb 12",1,2,31,31,2,62636,62636,2,True
+"	Finland","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Finland","	Feb 16",0,1,30,30,1,0,0,0,False
+"	Finland","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Finland","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Madagascar","	Total",0,7,57,57,1,0,0,0,
+"	Madagascar","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 29",0,2,57,57,1,0,0,0,True
+"	Madagascar","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Madagascar","	Feb 06",0,2,0,0,0,0,0,0,True
+"	Madagascar","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Madagascar","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 11",0,2,0,0,0,0,0,0,True
+"	Madagascar","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Madagascar","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Madagascar","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Madagascar","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Madagascar","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Czech Republic","	Total",0.285714286,7,191,158,4,44244,44244,2,
+"	Czech Republic","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 27",0,1,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 29",0,1,184,184,1,0,0,0,True
+"	Czech Republic","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Feb 01",0,1,0,0,0,0,0,0,True
+"	Czech Republic","	Feb 02",0,1,1069,1069,1,0,0,0,True
+"	Czech Republic","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Feb 06",0,1,0,0,0,0,0,0,True
+"	Czech Republic","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Feb 09",0,1,4575,4575,1,0,0,0,True
+"	Czech Republic","	Feb 10",0,2,598,598,1,0,0,0,True
+"	Czech Republic","	Feb 11",0.5,2,84,84,2,85538,85538,1,True
+"	Czech Republic","	Feb 12",1,1,33,33,1,7590,7590,1,True
+"	Czech Republic","	Feb 13",0.5,2,1245,1245,2,2951,2951,1,True
+"	Czech Republic","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Czech Republic","	Feb 16",0,1,0,0,0,0,0,0,False
+"	Czech Republic","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Czech Republic","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Austria","	Total",0,7,48,46,3,0,0,0,
+"	Austria","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Austria","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Austria","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 06",0,1,56,56,1,0,0,0,True
+"	Austria","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 08",0,1,46,46,1,0,0,0,True
+"	Austria","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Austria","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 14",0,1,0,0,0,0,0,0,True
+"	Austria","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Austria","	Feb 16",0,1,0,0,0,0,0,0,False
+"	Austria","	Feb 17",0,1,42,42,1,0,0,0,False
+"	Austria","	Feb 18",0,0,0,0,0,0,0,0,False
+"	South Korea","	Total",0,7,117,111,5,0,0,0,
+"	South Korea","	Jan 19",0,0,0,0,0,0,0,0,True
+"	South Korea","	Jan 20",0,1,111,111,1,0,0,0,True
+"	South Korea","	Jan 21",0,1,0,0,0,0,0,0,True
+"	South Korea","	Jan 22",0,0,0,0,0,0,0,0,True
+"	South Korea","	Jan 23",0,0,0,0,0,0,0,0,True
+"	South Korea","	Jan 24",0,0,0,0,0,0,0,0,True
+"	South Korea","	Jan 25",0,1,0,0,0,0,0,0,True
+"	South Korea","	Jan 26",0,0,0,0,0,0,0,0,True
+"	South Korea","	Jan 27",0,0,0,0,0,0,0,0,True
+"	South Korea","	Jan 28",0,0,0,0,0,0,0,0,True
+"	South Korea","	Jan 29",0,0,0,0,0,0,0,0,True
+"	South Korea","	Jan 30",0,1,62,62,1,0,0,0,True
+"	South Korea","	Jan 31",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 01",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 02",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 03",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 04",0,2,273,273,1,0,0,0,True
+"	South Korea","	Feb 05",0,2,202,202,2,0,0,0,True
+"	South Korea","	Feb 06",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 07",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 08",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 09",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 10",0,1,0,0,0,0,0,0,True
+"	South Korea","	Feb 11",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 12",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 13",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 14",0,0,0,0,0,0,0,0,True
+"	South Korea","	Feb 15",0,1,27,27,1,0,0,0,True
+"	South Korea","	Feb 16",0,0,0,0,0,0,0,0,False
+"	South Korea","	Feb 17",0,0,0,0,0,0,0,0,False
+"	South Korea","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Dominican Republic","	Total",0,7,321,321,2,0,0,0,
+"	Dominican Republic","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 21",0,1,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 28",0,1,468,468,1,0,0,0,True
+"	Dominican Republic","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 08",0,1,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 14",0,1,175,175,1,0,0,0,True
+"	Dominican Republic","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Dominican Republic","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Dominican Republic","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Dominican Republic","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Slovakia","	Total",0,6,66,66,1,0,0,0,
+"	Slovakia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Jan 21",0,1,0,0,0,0,0,0,True
+"	Slovakia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Jan 24",0,1,0,0,0,0,0,0,True
+"	Slovakia","	Jan 25",0,1,66,66,1,0,0,0,True
+"	Slovakia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Slovakia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Slovakia","	Feb 10",0,1,0,0,0,0,0,0,True
+"	Slovakia","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Slovakia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Slovakia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Slovakia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Bosnia and Herzegovina","	Total",0,6,26,29,4,0,0,0,
+"	Bosnia and Herzegovina","	Jan 19",0,1,25,25,1,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 21",0,1,33,33,1,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 27",0,1,41,41,1,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 01",0,1,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 06",0,1,8,8,1,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 14",0,1,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Bosnia and Herzegovina","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Bosnia and Herzegovina","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Bosnia and Herzegovina","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Nepal","	Total",0.2,5,36,36,2,304,304,1,
+"	Nepal","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Nepal","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Nepal","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Nepal","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Nepal","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Nepal","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Nepal","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Nepal","	Jan 26",0,1,34,34,1,0,0,0,True
+"	Nepal","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Nepal","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Nepal","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Nepal","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Nepal","	Jan 31",0,1,0,0,0,0,0,0,True
+"	Nepal","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 02",1,1,38,38,1,304,304,1,True
+"	Nepal","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Nepal","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Nepal","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Nepal","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Nepal","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Croatia","	Total",0.4,5,112,112,2,2517,2517,2,
+"	Croatia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Croatia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Croatia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Croatia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Croatia","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Croatia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Croatia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Croatia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Croatia","	Jan 27",0,1,0,0,0,0,0,0,True
+"	Croatia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Croatia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Croatia","	Jan 30",1,1,51,51,1,4356,4356,1,True
+"	Croatia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 10",0,1,1536,1536,1,0,0,0,True
+"	Croatia","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 12",1,1,174,174,1,678,678,1,True
+"	Croatia","	Feb 13",1,1,21,21,1,1833,1833,1,True
+"	Croatia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Croatia","	Feb 16",0,2,0,0,0,0,0,0,False
+"	Croatia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Croatia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Venezuela","	Total",0,5,370,238,3,0,0,0,
+"	Venezuela","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Jan 30",0,1,848,848,1,0,0,0,True
+"	Venezuela","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 04",0,1,238,238,1,0,0,0,True
+"	Venezuela","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 10",0,1,26,26,1,0,0,0,True
+"	Venezuela","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Venezuela","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Venezuela","	Feb 15",0,1,0,0,0,0,0,0,True
+"	Venezuela","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Venezuela","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Venezuela","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Estonia","	Total",0.2,5,738,90,3,4274,4274,1,
+"	Estonia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Estonia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Estonia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Estonia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Estonia","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Estonia","	Jan 24",0,1,0,0,0,0,0,0,True
+"	Estonia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Estonia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Estonia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Estonia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Estonia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Estonia","	Jan 30",0,2,22,22,1,0,0,0,True
+"	Estonia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Estonia","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 08",1,1,2102,2102,1,4274,4274,1,True
+"	Estonia","	Feb 09",1,1,68,68,1,2223,2223,1,True
+"	Estonia","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 11",0,1,90,90,1,0,0,0,True
+"	Estonia","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Estonia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Estonia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Estonia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	New Zealand","	Total",0,5,271,271,1,0,0,0,
+"	New Zealand","	Jan 19",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 20",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 21",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 22",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 23",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 24",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 25",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 26",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 27",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 28",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 29",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 30",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Jan 31",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 01",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 02",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 03",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 04",0,1,0,0,0,0,0,0,True
+"	New Zealand","	Feb 05",0,1,0,0,0,0,0,0,True
+"	New Zealand","	Feb 06",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 07",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 08",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 09",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 10",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 11",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 12",0,1,0,0,0,0,0,0,True
+"	New Zealand","	Feb 13",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 14",0,0,0,0,0,0,0,0,True
+"	New Zealand","	Feb 15",0,1,271,271,1,0,0,0,True
+"	New Zealand","	Feb 16",0,1,0,0,0,0,0,0,False
+"	New Zealand","	Feb 17",0,1,0,0,0,0,0,0,False
+"	New Zealand","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Macedonia","	Total",0,5,19,19,2,0,0,0,
+"	Macedonia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Macedonia","	Jan 24",0,1,25,25,1,0,0,0,True
+"	Macedonia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Macedonia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Macedonia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Macedonia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Macedonia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Macedonia","	Feb 18",0,1,13,13,1,0,0,0,False
+"	Uganda","	Total",0,5,228,228,2,0,0,0,
+"	Uganda","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Uganda","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Uganda","	Jan 21",0,1,47,47,1,0,0,0,True
+"	Uganda","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Uganda","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Uganda","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Uganda","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Uganda","	Jan 26",0,2,409,409,1,0,0,0,True
+"	Uganda","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Uganda","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Uganda","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Uganda","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Uganda","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Uganda","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Uganda","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Uganda","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Uganda","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Georgia","	Total",0.25,4,340,340,2,56466,56466,1,
+"	Georgia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Georgia","	Jan 30",1,1,454,454,1,56466,56466,1,True
+"	Georgia","	Jan 31",1,1,193,193,1,267,267,1,True
+"	Georgia","	Feb 01",1,1,195,195,1,24862,24862,1,True
+"	Georgia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 08",0,1,0,0,0,0,0,0,True
+"	Georgia","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Georgia","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Georgia","	Feb 15",0,1,227,227,1,0,0,0,True
+"	Georgia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Georgia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Georgia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Lebanon","	Total",0,4,0,0,0,0,0,0,
+"	Lebanon","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Jan 30",0,1,0,0,0,0,0,0,True
+"	Lebanon","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Lebanon","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Lebanon","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Lebanon","	Feb 16",0,1,0,0,0,0,0,0,False
+"	Lebanon","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Lebanon","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Mauritius","	Total",0,4,39,40,3,0,0,0,
+"	Mauritius","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Mauritius","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 05",0,1,43,43,1,0,0,0,True
+"	Mauritius","	Feb 06",0,1,40,40,1,0,0,0,True
+"	Mauritius","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Mauritius","	Feb 16",0,1,35,35,1,0,0,0,False
+"	Mauritius","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Mauritius","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Albania","	Total",0.5,4,6722,39,3,2594,2594,2,
+"	Albania","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Albania","	Jan 20",1,1,20115,20115,1,4910,4910,1,True
+"	Albania","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Albania","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Albania","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Albania","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Albania","	Jan 25",0,1,0,0,0,0,0,0,True
+"	Albania","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Albania","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Albania","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Albania","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Albania","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Albania","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Albania","	Feb 04",0,1,14,14,1,0,0,0,True
+"	Albania","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 08",1,1,39,39,1,278,278,1,True
+"	Albania","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Albania","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Albania","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Albania","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Ethiopia","	Total",0,4,66,66,2,0,0,0,
+"	Ethiopia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Ethiopia","	Feb 15",0,3,66,66,2,0,0,0,True
+"	Ethiopia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Ethiopia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Ethiopia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Norway","	Total",0,4,14,14,1,0,0,0,
+"	Norway","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Norway","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Norway","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Norway","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Norway","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Norway","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Norway","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Norway","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Norway","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Norway","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Norway","	Jan 29",0,1,0,0,0,0,0,0,True
+"	Norway","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Norway","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Norway","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Norway","	Feb 15",0,1,14,14,1,0,0,0,True
+"	Norway","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Norway","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Norway","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Benin","	Total",0,3,32,32,2,0,0,0,
+"	Benin","	Jan 19",0,1,22,22,1,0,0,0,True
+"	Benin","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Benin","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Benin","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Benin","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Benin","	Jan 24",0,1,42,42,1,0,0,0,True
+"	Benin","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Benin","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Benin","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Benin","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Benin","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Benin","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Benin","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 12",0,1,0,0,0,0,0,0,True
+"	Benin","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Benin","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Benin","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Benin","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Guatemala","	Total",0,3,136,136,1,0,0,0,
+"	Guatemala","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Guatemala","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Jan 30",0,1,136,136,1,0,0,0,True
+"	Guatemala","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 02",0,1,539,539,1,0,0,0,True
+"	Guatemala","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Guatemala","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Guatemala","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Guatemala","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Guatemala","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Ivory Coast","	Total",0,3,81,81,1,0,0,0,
+"	Ivory Coast","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Ivory Coast","	Feb 16",0,1,81,81,1,0,0,0,False
+"	Ivory Coast","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Ivory Coast","	Feb 18",0,1,0,0,0,0,0,0,False
+"	Jordan","	Total",0,3,0,0,0,0,0,0,
+"	Jordan","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Jordan","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Jordan","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Jordan","	Feb 14",0,1,0,0,0,0,0,0,True
+"	Jordan","	Feb 15",0,1,0,0,0,0,0,0,True
+"	Jordan","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Jordan","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Jordan","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Uruguay","	Total",0,3,61,61,2,0,0,0,
+"	Uruguay","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 28",0,1,103,103,1,0,0,0,True
+"	Uruguay","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 05",0,1,19,19,1,0,0,0,True
+"	Uruguay","	Feb 06",0,1,0,0,0,0,0,0,True
+"	Uruguay","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Uruguay","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Uruguay","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Uruguay","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Azerbaijan","	Total",0,3,0,0,0,0,0,0,
+"	Azerbaijan","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 15",0,1,0,0,0,0,0,0,True
+"	Azerbaijan","	Feb 16",0,1,0,0,0,0,0,0,False
+"	Azerbaijan","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Azerbaijan","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Slovenia","	Total",0,3,22,22,2,0,0,0,
+"	Slovenia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Jan 20",0,1,13,13,1,0,0,0,True
+"	Slovenia","	Jan 21",0,1,6,6,1,0,0,0,True
+"	Slovenia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Jan 29",0,1,0,0,0,0,0,0,True
+"	Slovenia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 06",0,1,32,32,1,0,0,0,True
+"	Slovenia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Slovenia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Slovenia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Slovenia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Moldova","	Total",0,3,0,0,0,0,0,0,
+"	Moldova","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Moldova","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Moldova","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 07",0,1,0,0,0,0,0,0,True
+"	Moldova","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Moldova","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Moldova","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Moldova","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Moldova","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Denmark","	Total",0,3,0,0,0,0,0,0,
+"	Denmark","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 22",0,1,0,0,0,0,0,0,True
+"	Denmark","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Denmark","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 01",0,1,0,0,0,0,0,0,True
+"	Denmark","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Denmark","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Denmark","	Feb 06",0,1,0,0,0,0,0,0,True
+"	Denmark","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Denmark","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Denmark","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Denmark","	Feb 18",0,1,0,0,0,0,0,0,False
+"	Angola","	Total",0,2,0,0,0,0,0,0,
+"	Angola","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Angola","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Angola","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Angola","	Feb 15",0,1,0,0,0,0,0,0,True
+"	Angola","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Angola","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Angola","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Bahrain","	Total",0,2,39,39,1,0,0,0,
+"	Bahrain","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Bahrain","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Bahrain","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Bahrain","	Feb 17",0,1,39,39,1,0,0,0,False
+"	Bahrain","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Palestine","	Total",0,2,138,138,1,0,0,0,
+"	Palestine","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 24",0,1,0,0,0,0,0,0,True
+"	Palestine","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Palestine","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 07",0,1,138,138,1,0,0,0,True
+"	Palestine","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Palestine","	Feb 15",0,1,35,35,1,0,0,0,True
+"	Palestine","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Palestine","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Palestine","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Oman","	Total",0.5,2,232,232,2,93,93,1,
+"	Oman","	Jan 19",0,1,37,37,1,0,0,0,True
+"	Oman","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Oman","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Oman","	Jan 22",0,1,1071,1071,1,0,0,0,True
+"	Oman","	Jan 23",0,1,0,0,0,0,0,0,True
+"	Oman","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Oman","	Jan 25",0,1,47,47,1,0,0,0,True
+"	Oman","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Oman","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Oman","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Oman","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Oman","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Oman","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 07",1,1,427,427,1,93,93,1,True
+"	Oman","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Oman","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Oman","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Oman","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Oman","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Mozambique","	Total",0,2,0,0,0,0,0,0,
+"	Mozambique","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Jan 24",0,1,0,0,0,0,0,0,True
+"	Mozambique","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Jan 26",0,1,0,0,0,0,0,0,True
+"	Mozambique","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Mozambique","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Mozambique","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Mozambique","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Mozambique","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Kosovo","	Total",0.5,2,114,114,1,130,130,1,
+"	Kosovo","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 21",1,1,114,114,1,130,130,1,True
+"	Kosovo","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 09",0,1,0,0,0,0,0,0,True
+"	Kosovo","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Kosovo","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Kosovo","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Kosovo","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Togo","	Total",0,2,167,167,1,0,0,0,
+"	Togo","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Togo","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 05",0,1,167,167,1,0,0,0,True
+"	Togo","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Togo","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Togo","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Togo","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Rwanda","	Total",0,2,160,160,2,0,0,0,
+"	Rwanda","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 26",0,1,63,63,1,0,0,0,True
+"	Rwanda","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Rwanda","	Feb 15",0,1,258,258,1,0,0,0,True
+"	Rwanda","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Rwanda","	Feb 17",0,1,0,0,0,0,0,0,False
+"	Rwanda","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Zimbabwe","	Total",0,2,545,545,1,0,0,0,
+"	Zimbabwe","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 26",0,1,545,545,1,0,0,0,True
+"	Zimbabwe","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Zimbabwe","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Zimbabwe","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Zimbabwe","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Montenegro","	Total",0,2,166,166,1,0,0,0,
+"	Montenegro","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 04",0,2,166,166,1,0,0,0,True
+"	Montenegro","	Feb 05",0,1,723,723,1,0,0,0,True
+"	Montenegro","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Montenegro","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Montenegro","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Montenegro","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Syria","	Total",0,1,0,0,0,0,0,0,
+"	Syria","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Syria","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 08",0,1,0,0,0,0,0,0,True
+"	Syria","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Syria","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Syria","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Syria","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Iran","	Total",0,1,0,0,0,0,0,0,
+"	Iran","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Iran","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 02",0,1,0,0,0,0,0,0,True
+"	Iran","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Iran","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Iran","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Iran","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Mali","	Total",0,1,0,0,0,0,0,0,
+"	Mali","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Mali","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Mali","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Mali","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Mali","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Mali","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Panama","	Total",1,1,127,127,1,293,293,1,
+"	Panama","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Panama","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 02",1,1,127,127,1,293,293,1,True
+"	Panama","	Feb 03",1,1,23,23,1,21270,21270,1,True
+"	Panama","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 05",0,1,3169,3169,1,0,0,0,True
+"	Panama","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Panama","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Panama","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Panama","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Zambia","	Total",0,1,170,170,1,0,0,0,
+"	Zambia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 22",0,1,170,170,1,0,0,0,True
+"	Zambia","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Zambia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Zambia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Zambia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Zambia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Trinidad and Tobago","	Total",0,1,96,96,1,0,0,0,
+"	Trinidad and Tobago","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Jan 30",0,1,96,96,1,0,0,0,True
+"	Trinidad and Tobago","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 01",0,1,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Trinidad and Tobago","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Trinidad and Tobago","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Trinidad and Tobago","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Jamaica","	Total",0,1,0,0,0,0,0,0,
+"	Jamaica","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 28",0,1,0,0,0,0,0,0,True
+"	Jamaica","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Jamaica","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Jamaica","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Jamaica","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Yemen","	Total",0,1,0,0,0,0,0,0,
+"	Yemen","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Yemen","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 04",0,1,0,0,0,0,0,0,True
+"	Yemen","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Yemen","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Yemen","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Yemen","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Puerto Rico","	Total",0,1,0,0,0,0,0,0,
+"	Puerto Rico","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 03",0,1,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Puerto Rico","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Puerto Rico","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Puerto Rico","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Guinea","	Total",0,1,87,87,1,0,0,0,
+"	Guinea","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Guinea","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 04",0,1,87,87,1,0,0,0,True
+"	Guinea","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Guinea","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Guinea","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Guinea","	Feb 18",0,0,0,0,0,0,0,0,False
+"	(none)","	Total",0,1,0,0,0,0,0,0,
+"	(none)","	Jan 19",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 20",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 21",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 22",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 23",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 24",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 25",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 26",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 27",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 28",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 29",0,1,0,0,0,0,0,0,True
+"	(none)","	Jan 30",0,0,0,0,0,0,0,0,True
+"	(none)","	Jan 31",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 01",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 02",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 03",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 04",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 05",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 06",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 07",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 08",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 09",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 10",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 11",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 12",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 13",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 14",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 15",0,0,0,0,0,0,0,0,True
+"	(none)","	Feb 16",0,0,0,0,0,0,0,0,False
+"	(none)","	Feb 17",0,0,0,0,0,0,0,0,False
+"	(none)","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Costa Rica","	Total",0,1,0,0,0,0,0,0,
+"	Costa Rica","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 14",0,1,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Costa Rica","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Costa Rica","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Costa Rica","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Andorra","	Total",0,1,37,37,1,0,0,0,
+"	Andorra","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 29",0,1,37,37,1,0,0,0,True
+"	Andorra","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Andorra","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Andorra","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Andorra","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Andorra","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Kuwait","	Total",0,1,0,0,0,0,0,0,
+"	Kuwait","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Kuwait","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Kuwait","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Kuwait","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Kuwait","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Brunei","	Total",0,1,0,0,0,0,0,0,
+"	Brunei","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Brunei","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 10",0,1,0,0,0,0,0,0,True
+"	Brunei","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Brunei","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Brunei","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Brunei","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Cyprus","	Total",0,1,19,19,1,0,0,0,
+"	Cyprus","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Jan 31",0,1,19,19,1,0,0,0,True
+"	Cyprus","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Cyprus","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Cyprus","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Cyprus","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Northern Mariana Islands","	Total",0,1,24,24,1,0,0,0,
+"	Northern Mariana Islands","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 03",0,1,24,24,1,0,0,0,True
+"	Northern Mariana Islands","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Northern Mariana Islands","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Northern Mariana Islands","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Northern Mariana Islands","	Feb 18",0,0,0,0,0,0,0,0,False
+"	El Salvador","	Total",0,1,0,0,0,0,0,0,
+"	El Salvador","	Jan 19",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 20",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 21",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 22",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 23",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 24",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 25",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 26",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 27",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 28",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 29",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 30",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Jan 31",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 01",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 02",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 03",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 04",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 05",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 06",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 07",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 08",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 09",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 10",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 11",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 12",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 13",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 14",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 15",0,0,0,0,0,0,0,0,True
+"	El Salvador","	Feb 16",0,1,0,0,0,0,0,0,False
+"	El Salvador","	Feb 17",0,0,0,0,0,0,0,0,False
+"	El Salvador","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Bolivia","	Total",0,1,2296,2296,1,0,0,0,
+"	Bolivia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 09",0,1,2296,2296,1,0,0,0,True
+"	Bolivia","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Bolivia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Bolivia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Bolivia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Russia","	Total",0,1,0,0,0,0,0,0,
+"	Russia","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Russia","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 11",0,1,0,0,0,0,0,0,True
+"	Russia","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Russia","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Russia","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Russia","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Congo (DRC)","	Total",0,1,0,0,0,0,0,0,
+"	Congo (DRC)","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 05",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 13",0,1,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Congo (DRC)","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Congo (DRC)","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Congo (DRC)","	Feb 18",0,0,0,0,0,0,0,0,False
+"	Uzbekistan","	Total",0,1,0,0,0,0,0,0,
+"	Uzbekistan","	Jan 19",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 20",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 21",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 22",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 23",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 24",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 25",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 26",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 27",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 28",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 29",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 30",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Jan 31",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 01",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 02",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 03",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 04",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 05",0,1,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 06",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 07",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 08",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 09",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 10",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 11",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 12",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 13",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 14",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 15",0,0,0,0,0,0,0,0,True
+"	Uzbekistan","	Feb 16",0,0,0,0,0,0,0,0,False
+"	Uzbekistan","	Feb 17",0,0,0,0,0,0,0,0,False
+"	Uzbekistan","	Feb 18",0,0,0,0,0,0,0,0,False
